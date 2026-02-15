@@ -1,0 +1,23 @@
+{
+    "content": "this legal text provides a summary of the progress of a legal case involving a party who is owed 101500 euros the court has made a final decision regarding the objections raised in the case declaring the dissolution of a community of heirs resulting from the death of a person named b the court has assigned exclusive ownership of certain properties to different parties including a property on the first floor and a piece of land to party r a property on the ground floor and several pieces of land to party b aa and another property to party b additionally shares of land have been assigned to parties c and n each party is obligated to make certain payments for the adjustment of the estate the court appointed an expert to assess the assets and propose a division plan which was accepted by the court the court also addressed the issue of collation and determined the allocation of costs including expenses for the division and legal fees",
+    "metadata": {
+        "CASE_ID": "10/2017",
+        "civil_codes_used": [
+            "Art. 729",
+            "Art. 737",
+            "Art. 747",
+            "Art. 748",
+            "Art. 749"
+        ],
+        "cost": "1'015,00 euro Fees (each party)",
+        "duration": "6 months",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heirs",
+        "number_of_persons_involved": 5
+    }
+}

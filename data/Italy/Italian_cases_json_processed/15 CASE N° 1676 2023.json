@@ -1,0 +1,19 @@
+{
+    "content": "this legal text is about a specific case referred to as case n\u00b0 24332021 which lasted for almost five years the court has made a decision regarding the allocation of assets in the case which involves coheirs and the division of an inheritance the plaintiffs who are siblings filed a summons to dissolve the community inheritance left by their deceased aunt which includes property and money in a joint account the defendants counterclaimed for restitution of sums withdrawn from the account and additional defendants objected to the dissolution of the inheritance the court ordered a property appraisal and sale determined the amount unlawfully withdrawn from the estate and calculated the total sum to be returned the court also defined the expenses incurred in managing the inheritance and ordered reimbursement from one of the defendants the case will proceed to a preliminary hearing and the ruling was made on august 3 2023",
+    "metadata": {
+        "CASE_ID": "2433/2021",
+        "civil_codes_used": [
+            "Art. 727"
+        ],
+        "cost": "3'500 EUR each",
+        "duration": "almost 5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heirs",
+        "number_of_persons_involved": 6
+    }
+}

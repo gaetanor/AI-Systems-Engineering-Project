@@ -1,0 +1,18 @@
+{
+    "content": "this legal text summarizes a court case that took place in pisa in 2016 the case involves a dispute over the division of an inheritance the court has ordered the dissolution of the inheritance community and the distribution of the assets which include a dwelling a garage and liquid assets the court has determined the liabilities and assigned half of the estate to the heirs one heir has the right to claim a specific amount from the estate while another heir must pay a sum of money plus interest to another heir both parties are responsible for their own legal costs and one party must also pay half of the already awarded costs the court ruling was made on january 25 2016",
+    "metadata": {
+        "CASE_ID": "No. 175",
+        "civil_codes_used": [
+            "Art. 190",
+            "Art. 566"
+        ],
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "movable and immovable property, liquid assets",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 2
+    }
+}

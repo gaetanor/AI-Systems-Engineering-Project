@@ -1,0 +1,19 @@
+{
+    "content": "this text is about a legal case involving a participant who is owed 671 euros the case is related to an inheritance succession where the plaintiffs claim that their compulsory share has been infringed the property in question is estimated to be worth \u20ac75000 an agreement has been reached between the parties involved where one party will pay specific amounts to the others the parties filed a petition expressing their complaint and several meetings were held to attempt conciliation finally an agreement was reached and the parties considered their shares satisfied and declared their claims settled the case was closed on july 22 2016",
+    "metadata": {
+        "CASE_ID": "319/2016",
+        "civil_codes_used": [
+            "art. 727"
+        ],
+        "cost": "671 EUR fee",
+        "duration": "56 days",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "succession_type": "legal",
+        "subject_of_succession": "immovable property",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heirs",
+        "number_of_persons_involved": 6
+    }
+}

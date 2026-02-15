@@ -1,0 +1,19 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved the division of a deceased persons assets which included real estate bank accounts pension benefits and securities the court determined that the deceased persons daughter another deceased daughter and a deceased son are the primary heirs each entitled to a onethird share of the inheritance one of the heirs accepted their share while another waived their share allowing it to be passed on to the remaining heirs the court received the deceased persons death certificate and initiated the succession proceedings the heirs were summoned to submit a declaration of succession and participate in a probate hearing but they agreed to proceed without a hearing and submitted a joint declaration the value of the estate was determined to be 95000 eur and one of the heirs is responsible for paying a court fee of 684 eur once the final judgment is issued the court will transmit the succession order to the land registry for registration the heir will also need to withdraw cash from pension benefits and obtain a certificate of final validity from the registrar to complete the division of the estate the text also explains the process of filing an appeal in a legal case including the time limit requirements and consequences for not complying with the rules the text is dated january 17 2022 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 269/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "684,00 EUR court fees",
+        "duration": "1 year, 3 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, unpaid pension benefits, securities",
+        "number_of_persons_involved": 3
+    }
+}

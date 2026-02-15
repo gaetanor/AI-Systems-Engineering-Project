@@ -1,0 +1,23 @@
+{
+    "content": "this legal text summarizes a court case that has been ongoing for 12 years the plaintiffs cmg ca cacd and the defendants bm cg cf ca cacm were involved in a dispute over a community inheritance the court ruled in favor of the plaintiffs dismissing the counterclaim brought by the defendants the court ordered the dissolution of the community inheritance and divided the real estate and movable property among the parties the defendants were also ordered to pay certain amounts to the plaintiffs the court addressed the issue of the heirs of the original plaintiff who passed away during the case concluding that their claim was unfounded and rejecting it the court determined the shares of the estate among the coheirs and assigned the real estate to the defendants the court also determined the value of the movable property and ordered the defendants to pay the plaintiffs their respective shares the costs of the proceedings were offset between the parties and the plaintiffs were ordered to repay a portion of the costs to the defendants the judgment is considered provisionally enforceable by law",
+    "metadata": {
+        "CASE_ID": "n.2575",
+        "civil_codes_used": [
+            "Art. 581",
+            "Art. 718",
+            "Art. 726",
+            "Art. 727",
+            "Art. 728",
+            "Art. 2697",
+            "Art. 303"
+        ],
+        "duration": "12 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 7
+    }
+}

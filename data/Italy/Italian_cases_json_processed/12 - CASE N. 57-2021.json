@@ -1,0 +1,17 @@
+{
+    "content": "this text provides a summary of the progress of a legal case without mentioning the names of the parties involved the case began with the filing of a complaint by one party against another outlining the issues and requesting relief the defendant then filed an answer addressing the allegations both parties engaged in the discovery process exchanging documents and conducting depositions to gather evidence if a settlement was not reached the case proceeded to trial where both parties presented their arguments and evidence after the trial the court issued a judgment determining the outcome and relief granted either party had the option to file an appeal which would be reviewed by a higher court the text does not provide information on the outcome of the appeal or any further steps in the case it also mentions a separate legal case in novara italy where a judgment was pronounced involving the dissolution of a community property and the allocation of specific portions to each party the court also determined a sum of money owed by one party to another the text references specific articles from the civil code and the civil procedure code and mentions the requirement for acts to be done in writing the courts decision was made by judge lc on january 26 2021",
+    "metadata": {
+        "CASE_ID": "57/2021",
+        "civil_codes_used": [
+            "Art. 533",
+            "Art. 713",
+            "Art. 1350"
+        ],
+        "duration": "6 years",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "marital_regime": "community of property",
+	"financial_support": "25,975.72 EUR compensation"
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "content": "this legal text summarizes the progress of a case that took place in court iii in bologna the case involves two parties referred to as wm and mk who are siblings the plaintiff wm filed a summons in december 2018 requesting the courts intervention in dividing the inheritance received from their deceased parents the defendant mk rejected the allegations and demanded transparency in valuing jointlyowned assets and donations the court appointed experts to assess the assets and provide a division plan the court examined the assets and donations in detail and determined the shares of each party the court also addressed the costs of the proceedings and allocated them between the parties the court made a final judgment ordering the defendant to reimburse the plaintiff for the costs of the proceedings the court also assigned various movable and immovable assets to the parties involved based on a schedule provided by ctu p the court set a deadline for payment of these costs",
+    "metadata": {
+        "CASE_ID": "III Court - Bologna, 25/09/2023, no. 1850",
+        "civil_codes_used": [
+            "Art. 566",
+            "Art. 581",
+            "Art. 718",
+            "Art. 724",
+            "Art. 737",
+            "Art. 714",
+            "Article 789"
+        ],
+        "cost": "1'821.07 EUR for advances, 83'380.00 for fees, plus VAT, c.p.a. and general costs, and 19'733.50 for the fees of the CTP",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, company shares",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "brothers",
+        "number_of_persons_involved": 2
+    }
+}

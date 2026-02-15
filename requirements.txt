@@ -1,0 +1,22 @@
+streamlit>=1.37.0
+python-dotenv
+numpy
+pandas
+faiss-cpu
+
+# Framework RAG e AI
+langchain>=0.3.0
+langchain-openai
+langchain-community
+langchain-huggingface
+langchain-groq
+
+# Embeddings e Modelli Locali
+sentence-transformers
+transformers
+torch
+
+# Valutazione
+ragas>=0.1.10
+datasets
+tiktoken

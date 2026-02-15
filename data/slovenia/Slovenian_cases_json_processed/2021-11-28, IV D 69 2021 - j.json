@@ -1,0 +1,19 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved the distribution of goods and assets in an inheritance case the deceased person had assets in slovenia and croatia including properties a bank account and a car the heirs of the deceased were the widow and daughter with the daughter waiving her share of the inheritance the court determined that the widow is entitled to the entire share of the inheritance the court applied certain laws specifically articles 11 and 146 of the inheritance act the court concluded that the deceased was habitually resident in slovenia making the slovenian court the jurisdiction for the inheritance proceedings the court assessed the value of the estate to be 88000 eur and imposed a court fee of 684 eur the proceedings concluded on november 18 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 69/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 146"
+        ],
+        "cost": "684,00 EUR court fees",
+        "duration": "10 months, 15 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, car, unpaid pension funds",
+        "relationship_between_parties": "widow and daughter",
+        "number_of_persons_involved": 2
+    }
+}

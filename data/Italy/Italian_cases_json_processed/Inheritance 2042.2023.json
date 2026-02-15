@@ -1,0 +1,25 @@
+{
+    "content": "this legal text explains the progress of a case between two parties blam and bg regarding the identification and division of their deceased mothers estate gn blam sued bg requesting the appraisal of the estate dissolution of the community inheritance and division of assets bg disputed the claims and raised objections the court determined the value of the estate calculated the shares each party is entitled to and awarded compensation and occupation indemnities to blam the court considered debts and credits related to the estate and deducted them from the shares the final resolution determined the shares of bg and blam the court also declared the succession of bc and gn determined their shares and ordered bg to pay restitution and indemnities the court assigned the property and assets to blam calculated the shares due to the heirs and ordered the division of the inheritance bg was ordered to pay a settlement amount and occupation indemnities to blam the court dismissed other claims and ordered bg to pay the costs of the proceedings",
+    "metadata": {
+        "CASE_ID": "4818/2019",
+        "civil_codes_used": [
+            "Art. 734",
+            "Art. 724",
+            "Art. 725"
+        ],
+        "cost": "euro 37.000 of compensation",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate, bank accounts",
+        "disputed_issues": "occupation indemnity",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 2,
+        "testamentary_clauses": [
+            "legacies",
+            "trusts"
+        ]
+    }
+}

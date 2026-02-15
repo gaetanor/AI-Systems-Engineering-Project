@@ -1,0 +1,19 @@
+{
+    "content": "this legal text describes a case that has been ongoing for 7 years in the monza court the case involves dividing inherited property after someones death the court has ordered the dissolution of the community property and has assigned specific properties to the parties involved one party has been instructed to pay a settlement amount to the other party the court has referred to the civil code to make its decision an expert appointed by the court has assessed the value of the properties and proposed a division plan which both parties have agreed to however they have not reached an agreement on the allocation of costs with one party seeking full reimbursement and the other requesting offsetting of costs the court has ruled in favor of the defendant and has ordered the return of a significant portion of the estate the parties will share the costs of the experts report the court has made a final decision on the division of the properties and the allocation of costs",
+    "metadata": {
+        "CASE_ID": "Tribunale Monza sez. IV, 17/01/2023, n.93",
+        "civil_codes_used": [
+            "Art. 720"
+        ],
+        "cost": "8'462.00 EUR of compensation",
+        "duration": "7 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "Flat 1st floor, 1 garage, 2 garage, Flat ground floor",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "co-heirs",
+        "number_of_persons_involved": 4
+    }
+}

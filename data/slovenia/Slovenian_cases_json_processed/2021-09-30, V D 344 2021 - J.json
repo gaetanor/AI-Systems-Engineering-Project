@@ -1,0 +1,19 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case identified as iv 3442021 started on january 4 2021 and ended on september 30 2021 lasting for 8 months and 13 days the court fee for the case is 243 euros and the heirs are responsible for sharing the cost based on their inherited shares the final resolution of the case involves determining the value of the goods involved which is 834585 eur this amount will be used to compensate for damages the goods will be divided among four heirs with the deceaseds daughter receiving half and the remaining three grandsons each receiving onesixth the names of the parties involved are not mentioned the text also provides instructions for lodging an appeal including the deadline of september 30 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 344/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 203"
+        ],
+        "cost": "243,00 EUR court fees",
+        "duration": "8 months, 13 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "compensation for damages",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 4
+    }
+}

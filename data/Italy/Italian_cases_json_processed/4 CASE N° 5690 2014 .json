@@ -1,0 +1,16 @@
+{
+    "content": "this legal text summarizes the progress of a case that has been ongoing for 16 years the court has awarded a compensation of 14000 euros to one of the parties involved the case involves the division of an inheritance among coheirs including movable and immovable assets the parties can agree to divide the assets differently if they wish a court in italy has issued a ruling related to this matter the case involves an actress represented by her power of attorney who is seeking the division of the inheritance left by her deceased parents the defendant argues that the plaintiff illegally occupied a part of the land and counterclaims for the demolition of a building a preliminary investigation was completed and a judgment was issued in 2012 partially accepting the plaintiffs claim an expert witness estimated the value of the assets and prepared a division project but the trial was discontinued due to the death of one of the parties the court determined the value of the estate and allocated the shares to the parties involved the judgment also ordered the payment of a sum of money to one of the parties the courtappointed experts fees and the costs of the proceedings were to be borne by the parties",
+    "metadata": {
+        "CASE_ID": "5690/2014",
+        "civil_codes_used": [
+            "Art. 727"
+        ],
+        "cost": "14'000.00 EUR compensation",
+        "duration": "16 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "inheritance",
+        "disputed_issues": "division of assets"
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "content": "this legal text summarizes a court case that took place in messina in 2017 the case involves two parties referred to as co ca and co fl and revolves around the division of an estate left by a deceased person the court has made a final decision declaring that the estate is divided with onethird going to co ca and twothirds going to co fl the estate consists solely of a flat and an application to include another property in the estate was rejected the court orders the dissolution of the community inheritance and assigns the flat to co fl additionally co fl is ordered to pay co ca a balance amount of \u20ac101902 the court dismisses claims for reimbursement of expenses and orders co ca to pay the remaining costs of the proceedings the court also orders the registrar of land registries to transcribe the judgment",
+    "metadata": {
+        "CASE_ID": "Court sec. I - Messina, 02/05/2017, no. 1237",
+        "civil_codes_used": [
+            "Art. 573",
+            "Art. 718",
+            "Art. 720",
+            "Art. 1114",
+            "Art. 785",
+            "Art. 789"
+        ],
+        "cost": "6'515.00 EUR of compensation",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "flat",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 2
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes the progress of a cause in a court case the specific details of the case and the parties involved are not provided the text explains the cost procedure with a total cost of 1332 euros which is divided equally among three heirs the duration of the procedure is one year and nine days the final resolution involves the distribution of goods with a total value of 460000 euros including various assets in slovenia and real estate in croatia the distribution is based on the original law and the agreement between the parties the court established the intestate heirs including the widow and two children the court also mentioned an agreement regarding the succession and a gift claimed by one of the heirs the court determined its jurisdiction over the inheritance based on the deceaseds habitual residence in slovenia the slovenian inheritance act was applied and intestate succession will take place the judgment determined the value of the estate and assessed a court fee to be paid by the heirs the court also made decisions regarding the registration of ownership of a property in slovenia and the possession of movable property by the widow the deceaseds daughter will arrange for the registration of the inherited property in croatia the text also provides instructions for filing an appeal in the court case including the necessary documents payment of a court fee and the time limit for lodging the appeal the instructions are dated january 31 2022",
+    "metadata": {
+        "CASE_ID": "IV D 501/2021",
+        "civil_codes_used": [
+            "Art. 10",
+            "Art. 11"
+        ],
+        "cost": "1.332,00 EUR fees",
+        "duration": "1 year and 9 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "subject_of_succession": "Real estate, bank accounts, company shares",
+        "disputed_issues": "succession and a gift claimed by one of the heirs",
+        "relationship_between_parties": "widow and two children",
+        "number_of_persons_involved": 3
+    }
+}

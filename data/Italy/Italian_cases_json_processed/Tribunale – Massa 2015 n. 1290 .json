@@ -1,0 +1,24 @@
+{
+    "content": "this legal text summarizes a court case that took place in massa on october 12 2015 the case is identified as number 1290 but does not provide any further information about the parties involved or the details of the case in this case vg has been ordered to pay the costs of the proceedings which include professional fees and disbursements the court has made a final decision declaring vg as the heir to a property in podenzana the specific details of the property are provided and the court has ordered the agenzia del territorio servizio di pubblicit\u00e0 immobiliare to transcribe the judgment vg has also been ordered to pay the costs of the proceedings the courts decision was made on december 10 2015 and filed with the registry on the same day",
+    "metadata": {
+        "CASE_ID": "No. 1290",
+        "civil_codes_used": [
+            "Art. 485",
+            "Art. 484",
+            "Art. 519",
+            "Art. 487",
+            "Art. 488",
+            "Art. 1143"
+        ],
+        "cost": "EUR 3,500.00 proceeding fees",
+        "duration": "8 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "property",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heir",
+        "number_of_persons_involved": 1
+    }
+}

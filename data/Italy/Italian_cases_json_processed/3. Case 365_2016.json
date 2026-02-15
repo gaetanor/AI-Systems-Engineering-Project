@@ -1,0 +1,15 @@
+{
+    "content": "this text is a summary of a legal case that lasted for almost three years it involves a dispute between two parties over an inheritance through mediation they reached a settlement agreement where one party received a share of the inheritance and the other party received monetary compensation the mediation process started in september 2016 and finally concluded on july 11 2019 the parties involved include several individuals and a special curator the expenses for the mediation and attorneys fees were settled and distributed among the parties the meeting concluded on july 11 2019 in avella",
+    "metadata": {
+        "CASE_ID": "365/2016",
+        "civil_codes_used": [
+            "Art. 1111"
+        ],
+        "cost": "7'165 euro each party",
+        "duration": "almost 3 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "disputed_issues": "division of assets"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes a court case that took place in messina in 2012 the case involved three parties referred to as gs gp and gm the court made a final judgment regarding the division of assets in a hereditary succession the deceased individuals gp and ps had various properties and land the court ordered the dissolution of the community of hereditaments and the opening of the hereditary succession the assets were allocated to the parties based on their possession and ownership the court also determined the costs of the case with twothirds to be paid by gs and the remaining costs divided between gp and gm the courtappointed experts costs were also divided in a similar manner the judgment was made by the messina council chamber of the second civil section of the court",
+    "metadata": {
+        "CASE_ID": "No. 1716",
+        "civil_codes_used": [
+            "Art. 190",
+            "Art. 132"
+        ],
+        "cost": "EUR 946.53 fees",
+        "duration": "14 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3
+    }
+}

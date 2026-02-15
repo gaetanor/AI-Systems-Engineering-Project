@@ -1,0 +1,23 @@
+{
+    "content": "the district court in ljubljana made a decision in a legal case where the parties involved had to pay a total of 86400 eur in court fees the procedure lasted for 10 months and 24 days the final resolution of the case involved the distribution of assets worth 200000 eur among three heirs heir 1 received the apartment garage residential furnishings and some jewelry heir 2 received the funds in the personal account savings account and unpaid pension benefits heir 3 received some jewelry the court applied article 25 of the inheritance act in this case the court also discussed the process of appealing a court order",
+    "metadata": {
+        "CASE_ID": "IV D 168/2021",
+        "civil_codes_used": [
+            "Art. 25"
+        ],
+        "cost": "864,00 EUR court fees",
+        "duration": "10 months and 24 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate, residential furnishings, unpaid pension benefits, funds in personal account, funds in savings account, jewelry",
+        "relationship_between_parties": "son, granddaughter",
+        "number_of_persons_involved": 3,
+        "testamentary_clauses": [
+            "three-and-a-half-bedroom apartment and a garage",
+            "cash",
+            "jewellery"
+        ]
+    }
+}

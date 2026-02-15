@@ -1,0 +1,22 @@
+{
+    "content": "this text is a legal summary of a court decision regarding the division of an estate among the heirs the court orders the division of the estate which includes agricultural land valuables insurance premiums and agricultural machinery among the heirs each heir is assigned a specific share including life insurance policies and expropriation indemnities cash sums are also ordered to be paid to certain heirs the court applies the legal principles of the civil code in making its decision it considers the evidence and arguments presented by the parties and provides a clear and logical explanation for its decision the court relies on an experts report to determine the value of the estate and how the assets should be divided the court also addresses the defendants qualification as a tenant farmer and calculates the civil fruits derived from the use of certain property the court determines the legal costs of the proceedings including the fees for the courtappointed expert the decision is final and binding",
+    "metadata": {
+        "CASE_ID": "RG 2170/2011",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 1111"
+        ],
+        "cost": "not specified, compensation",
+        "duration": "10 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": [
+            "agricultural land",
+            "valuables",
+            "insurance premiums",
+            "agricultural machinery"
+        ],
+        "disputed_issues": "division of assets"
+    }
+}

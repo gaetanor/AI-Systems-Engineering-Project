@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana the case involved two heirs both deceased sons and the court fees amounted to 11799 eur which the heirs are responsible for paying half of the procedure lasted for 6 months and 26 days from january 15 2021 to august 9 2021 the final resolution of the case involved the division of goods and assets including a real estate property unpaid pension benefits and income tax the specific article used in the decision was article 11 of the inheritance act the court declared the sons as the legal heirs to half of the estate and the property will be registered in their names the heirs need to take steps to register the property transfer the funds and obtain a certificate of final validity from the court the net value of the estate is 2300 eur and after deducting funeral expenses the court fee of 117 eur will be split between the heirs the text also explains the process of lodging an appeal in a legal case including the time limit required documents and payment of court fees the appeal can be lodged with the court or by registered post",
+    "metadata": {
+        "CASE_ID": "IV D 258/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "117,99 EUR fees and 2300 EUR inheritance value",
+        "duration": "6 months and 26 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "sons of the deceased",
+        "number_of_persons_involved": 2
+    }
+}

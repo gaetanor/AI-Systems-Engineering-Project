@@ -1,0 +1,20 @@
+{
+    "content": "this legal text summarizes a court decision made by the okrajno sodi\u0161\u010de v ljubljani on june 22 2021 the court case involved the division of assets among three heirs the total value of the assets was 101000 euros and included goods a personal bank account a motorbike a share in a real estate property and a share in a company each heir was entitled to 13 of the goods but an agreement was reached where heir 1 received the motorbike and a 34 share in the company heir 2 received a 16 share in the real estate and half of the money funds and heir 3 received a 16 share in the real estate and half of the money funds the text also mentioned the specific articles of the inheritance act and civil procedure act that were used in the decision additionally the text explained the process of filing an appeal in a legal case including the time frame requirements and fees involved",
+    "metadata": {
+        "CASE_ID": "IV D 260/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "702,00 EUR court fees and inheritance value 101'000 EUR",
+        "duration": "5 months and 8 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on the personal bank account, motor bike, real estate, company shares",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3
+    }
+}

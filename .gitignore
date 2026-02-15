@@ -1,0 +1,21 @@
+# File di ambiente e chiavi segrete
+.env
+.venv/
+env/
+venv/
+__pycache__/
+*.pyc
+
+# Log e dati di sessione (non vogliamo caricare la cronologia chat su GitHub)
+logs/interactions.json
+logs/*.jsonl
+logs/*.log
+
+# Dati vettoriali (troppo pesanti per GitHub, meglio rigenerarli)
+chroma_db/
+vector_store/
+merged_legal_index/
+*_db/
+
+# File di sistema
+.DS_Store

@@ -1,0 +1,21 @@
+{
+    "content": "this legal text summarizes the progress of a court case involving two parties referred to as cgcvg and cf cgcvg brought the application and cf made a counterclaim the court ruled in favor of both parties ordering cf to pay cgcvg a sum of \u20ac1032914 plus legal interest and ordering cgcvg to pay cf a sum of \u20ac65073 plus legal interest the case involved the division of inheritance assets including a savings account a bank policy and furniture the court determined that the assets should be divided among the siblings and ordered cf to reimburse funeral expenses claims for compensation for care provided to the parents were found to be unfounded the court concluded that the debts of both parties should be offset and the remaining amount should be paid by cf the ruling was made on december 30 2014 in bari",
+    "metadata": {
+        "CASE_ID": "Tribunale di Barzi, I sez., 12/01/2015, N. 83",
+        "civil_codes_used": [
+            "Art. 564",
+            "Art. 713",
+            "Art. 2721",
+            "Art. 2726"
+        ],
+        "cost": "10'329.14 EUR compensation",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "savings account, bank policy, furniture, pension",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "germane siblings",
+        "number_of_persons_involved": 3
+    }
+}

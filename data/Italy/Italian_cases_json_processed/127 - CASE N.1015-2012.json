@@ -1,0 +1,22 @@
+{
+    "content": "this legal text summarizes a court case that took place in pescara on september 3 2012 the case involved multiple parties including the children and heirs of deceased individuals the court ruled to dissolve a shared property which consisted of agricultural lands and a building in caramanico terme the court determined the value of the property to be \u20ac197412 and considered the living arrangements and interests of the parties involved in making its decision one party was assigned the entire property in exchange for a payment of \u20ac100000 the court also addressed the issue of repair expenses and determined that one party should be reimbursed for their expenses additionally the court discussed the allocation of costs and taxes related to the division of the property the ruling declares the shared property dissolved and assigns it to one party who must pay \u20ac100000 to another party the court also states that the costs of the trial will be compensated with each party responsible for a portion of the expenses this decision was made by the court of pescara on april 27 2012",
+    "metadata": {
+        "CASE_ID": "Tribunale Pescara, 03/09/2012, n.1015",
+        "civil_codes_used": [
+            "Art. 718",
+            "Art. 720",
+            "Art. 729",
+            "Art. 1111",
+            "Art. 1114",
+            "Art. 1116"
+        ],
+        "cost": "100'000,00 EUR compensation",
+        "duration": "15 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "agricultural lands and a building",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

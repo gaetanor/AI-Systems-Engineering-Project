@@ -1,0 +1,15 @@
+{
+    "content": "this legal text provides an overview of a case without revealing the names of the parties involved it mentions that an amount of 1837 euros has been received from one party the case has been ongoing for three years and a significant date mentioned is march 9 2022 the court has ordered one party to repay the plaintiff a total of eur 1545657 including interest the case involves a couple who jointly own a property and are going through a separation they need to go through a legal process called the dissolution of community property to formalize their agreement the case involves three parties the plaintiff the defendant and a bank the plaintiff is seeking a ruling for a specific amount of money related to the property and loan as well as the division of the property and payment of expenses the defendant is opposing the claims and making counterclaims related to child support and the right to reside in the property the bank is involved as the mortgage creditor the court has ordered further evidence and will make a decision at a later date a final judgment was made by the court ordering the defendant to repay the plaintiff a sum of eur 15'45657 and dismissing the defendants counterclaims the court also dismissed other claims made by the defendant the case has been referred back to the pretrial stage for the preparation of a division plan the judgment was made on march 8 2022 by judge dr francesco moroni",
+    "metadata": {
+        "CASE_ID": "1033 /2022",
+        "cost": "1'837 euro",
+        "duration": "3 years",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "nature_of_separation": "Judicial",
+        "presence_of_children": true,
+        "marital_regime": "community of property",
+	"financial_support":"15'456.57 EUR compensation"
+    }
+}

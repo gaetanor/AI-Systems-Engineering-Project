@@ -1,0 +1,26 @@
+{
+    "content": "in this legal case a court in agrigento made a final decision regarding the division of an estate belonging to a deceased person the court assigned specific shares of land and buildings to different parties involved in the case and determined the amount of adjustment payments that each party should receive some parties were ordered to pay these adjustments to others the court set a deadline for the fulfillment of these obligations the decision is based on various articles of the civil code related to prescription succession collation and usucaption the case was initiated by one party who claimed their rightful share of the estate and requested the dissolution of the community of inheritance assets the other parties objected but the court rejected their arguments and proceeded with the division of the estate an expert witness was appointed to estimate the value of the assets in the estate the court considered the arguments made by the parties and allocated the assets in a fair way the court specified the shares of land and buildings that each party should receive and the amount of adjustment payments they are entitled to the court also ordered some parties to pay these adjustments to others the court determined that the costs of the litigation should be compensated by the division of the estate and the remaining costs should be shared equally between the parties the court made this decision on july 5 2017",
+    "metadata": {
+        "CASE_ID": "Tribunale Agrigento, 05/07/2017, n.1120",
+        "civil_codes_used": [
+            "Art. 480",
+            "Art. 533",
+            "Art. 564",
+            "Art. 566",
+            "Art. 737",
+            "Art. 745",
+            "Art. 746",
+            "Art. 747",
+            "Art. 1158"
+        ],
+        "cost": "35'637.55 EUR of compensation and 30'950.40 EUR of fees",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "land",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "children of the deceased",
+        "number_of_persons_involved": 5
+    }
+}

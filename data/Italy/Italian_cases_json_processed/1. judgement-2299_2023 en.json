@@ -1,0 +1,23 @@
+{
+    "content": "this legal text provides an overview of a specific case identified as case n\u00b0 22992023 without mentioning the names of the parties involved the main focus of the case is on a compensation of 11226 euros the case has been ongoing for 6 years from april 4 2017 to october 27 2023 the text explains that there are several properties involved in the case including a residential building an agricultural annexe and agricultural land the parties involved are seeking the dissolution of a hereditary communion the court made a decision based on the allocation of lots among the sharers ensuring transparency and avoiding favoritism the case involves the division of inherited property with the plaintiff requesting the court to order the division according to a plan or arrange for the judicial division or sale of the property the defendant is requested to pay a certain amount while the respondent requests the dissolution of communal property and the determination of the estates value the respondent rejects the sale of real estate and requests the plaintiff to pay the costs of the suit the court ordered a technical expert opinion to determine the value and feasibility of dividing the property the court then allocated the property among the parties considering the right of habitation and care needs the tribunal has made a final ruling on a succession case identifying the heirs and the properties involved they ordered the dissolution of the hereditary communion assigned specific properties to each party and established an easement passage the tribunal also settled the costs of litigation separately",
+    "metadata": {
+        "CASE_ID": "2299/2023",
+        "civil_codes_used": [
+            "Art. 729"
+        ],
+        "cost": "11'226.00 EUR compensation",
+        "duration": "6 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "residential building, agricultural annexe, agricultural land",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "wife and children",
+        "number_of_persons_involved": 3,
+        "testamentary_clauses": [
+            "legacies",
+            "trusts"
+        ]
+    }
+}

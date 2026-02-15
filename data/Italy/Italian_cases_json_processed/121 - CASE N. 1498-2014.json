@@ -1,0 +1,23 @@
+{
+    "content": "in this legal case the court in messina made a final ruling on a dispute between multiple parties regarding the inheritance and division of properties the court dismissed an application for reduction and assigned specific properties to each party involved the court also ordered one party to reimburse another party a certain amount of money additionally the court allocated properties to a third party and ordered them to pay a sum of money to one of the parties the court further ordered the applicant to pay the costs of the proceedings the court considered factors such as property improvements and estate debts in reaching its decision the ruling was made by the messina court on june 24 2014",
+    "metadata": {
+        "CASE_ID": "Tribunale Messina sez. I, 30/06/2014, n.1498",
+        "civil_codes_used": [
+            "Art. 537",
+            "Art. 1150"
+        ],
+        "cost": "277.43 EUR fees",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 4,
+        "testamentary_clauses": [
+            "legacies",
+            "trusts"
+        ]
+    }
+}

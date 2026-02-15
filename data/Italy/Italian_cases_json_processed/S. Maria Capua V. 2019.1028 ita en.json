@@ -1,0 +1,15 @@
+{
+    "content": "this legal text summarizes a court case that has been ongoing for 24 years from 1995 to 2019 regarding the division of a property between multiple parties the court has made a final decision ordering the property to be divided among the heirs with specific portions marked in green and red the court also ordered that the costs of the proceedings be shared equally between the parties the judgment states that the property was purchased jointly and consists of a mezzanine floor with various rooms and amenities the defendant is ordered to pay compensation for damages caused to the property and the plaintiff is awarded a sum for the use of the property after the plaintiffs death the heirs become involved and insist on their share of the property eventually the parties reach a settlement agreement which includes the allocation of specific parts of the property to each party the value of the property is determined by a courtappointed expert the judgment dissolves the joint ownership and assigns specific parts of the property to each party the costs of the proceedings are to be shared equally between the parties",
+    "metadata": {
+        "CASE_ID": "2019",
+        "civil_codes_used": [
+            "Art. 729"
+        ],
+        "duration": "24 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "property",
+        "disputed_issues": "division of assets"
+    }
+}

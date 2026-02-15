@@ -1,0 +1,16 @@
+{
+    "content": "this legal text summarizes a case involving two parties mr ms and mr mf who were disputing the division of joint ownership of two apartments in castelfidardo italy the first apartment is on the ground floor and has various rooms while the second apartment is on the first floor both apartments have the same cadastral income the parties agreed to divide the ownership and assign one apartment to each party mr ms was assigned the firstfloor apartment valued at euro 6000000 and mr mf was assigned the ground floor apartment also valued at euro 6000000 the case was resolved on july 27 2010 by notary mb",
+    "metadata": {
+        "CASE_ID": "Notary MB, 27/7/2010",
+        "civil_codes_used": [
+            "Art. 110",
+            "Art. 112"
+        ],
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "subject_of_succession": "apartments",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

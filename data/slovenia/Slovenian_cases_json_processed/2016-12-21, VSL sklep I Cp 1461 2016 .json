@@ -1,0 +1,20 @@
+{
+    "content": "this legal text discusses a case regarding costs but does not provide specific details about the parties involved the court of appeal has rejected an appeal and confirmed the decision made by the first instance court the estate in question is worth eur 2557 and includes an unpaid pension of eur 72907 the estate will be divided among the heirs with heir bb receiving half there is a dispute between mr aa and mrs bb regarding the sale of an apartment with mr aa claiming a share of the proceeds the court has determined that mr aa does not have the legal standing to assert his rights in the succession proceedings the court order is being contested and the continuation of the succession proceedings is of legal interest the court has dismissed the appeal and upheld the order made by the court of first instance the text also discusses the legal provisions regarding necessary shares and testamentary dispositions the appellant argues that the gifts made by the deceased should be reduced to cover the necessary share the court of appeal has dismissed the appeal based on article 365 2 of the civil procedure act the costs of the appeal proceedings were not claimed by either party there were contradictory claims regarding the nature of a contract of sale with one party arguing it was a disguised gift and the other claiming it was an unpaid installment of the purchase price",
+    "metadata": {
+        "CASE_ID": "VSL sklep I Cp 1461/2016",
+        "civil_codes_used": [
+            "Art. 8",
+            "Art. 25",
+            "Art. 26",
+            "Art. 34",
+            "Art. 35"
+        ],
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

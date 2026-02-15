@@ -1,0 +1,17 @@
+{
+    "content": "this legal text summarizes the progress of a case that lasted for 7 years the court of bari made a final ruling in favor of the plaintiffs ordering the division of the estate according to a plan prepared by an engineer the defendant was also ordered to compensate the plaintiffs for onesixth of the total sum of 21788781 euros plus interest the court based its decision on specific articles of the civil code which deal with nondivisible real estate and the right of first refusal the court found that the dissolution of the community inheritance was justified and that the hereditary assets should be divided among the heirs the defendant argued for the preemption of certain properties but the court ruled against this claim the court also determined that the defendant owed the plaintiffs a sum of money for the net income from the property and for the management expenses the court calculated these amounts based on evidence provided by an expert additionally the court considered the rental income from an apartment and the related expenses ultimately the court ordered the defendant to pay the specified sum of money to the plaintiffs and the division of the estate was declared enforceable the costs of the case were also finalized the ruling was made on february 20 2008 and the court decided to continue the case separately and declared the judgment provisionally enforceable",
+    "metadata": {
+        "CASE_ID": "n.562",
+        "civil_codes_used": [
+            "Art. 720",
+            "Art. 732"
+        ],
+        "cost": "217'887.81 EUR compensation",
+        "duration": "7 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets"
+    }
+}

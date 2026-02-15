@@ -1,0 +1,16 @@
+{
+    "content": "this is a summary of a legal case in slovenia the case involves a dispute between two parties over the division of their coowned property which includes two cars and two real estate properties the court determined that the plaintiff is entitled to 30 ownership while the defendant is awarded 70 ownership the court also reviewed the costs of the proceedings and shared them between the parties the defendant appealed the decision but the court of second instance partially overturned the judgment the defendant then sought a review of the judgment claiming errors in substantive law and procedural requirements the supreme court found the review to be wellfounded and set aside the previous judgment the court also dismissed an appeal criticizing the finding of the propertys identity the defendant was ordered to pay the costs of the review proceedings",
+    "metadata": {
+        "CASE_ID": "Sodba Vrhovnega sodi\u0161\u010da RS II Ips 59/2016, 24. 8. 2017",
+        "civil_codes_used": [
+            "Marriage and Family Relations Act: 58, 59",
+            "Civil Procedure Act: 367.a"
+        ],
+        "cost": "Compensation",
+        "duration": "Ended on 24. 8. 2017",
+        "law": "Divorce",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "presence_of_children": false
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "content": "this legal text provides an update on a court case that took place in ascoli piceno on 10012023 the case involves two parties but their names are not mentioned the court has made a final decision in a case involving the dissolution of a community inheritance the property in question located in san benedetto del tronto has been awarded to the defendant maca who will have full ownership the court has ordered the defendant to pay the applicants maad and madi a sum of 70000 euros as compensation for the loss of enjoyment of the property additionally the applicants are required to pay the defendant a sum of 2776601 euros plus interest the court has partially set off the sums owed between the parties and has determined that the costs of the case will be fully compensated",
+    "metadata": {
+        "CASE_ID": "N\u00b0\u00a0\u00a0Court sez. I - Ascoli Piceno, 10/01/2023, no. 10",
+        "civil_codes_used": [
+            "Art. 281",
+            "Art. 720",
+            "Art. 1102",
+            "Art. 1105"
+        ],
+        "cost": "not specified - compensation",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "community inheritance",
+        "number_of_persons_involved": 3
+    }
+}

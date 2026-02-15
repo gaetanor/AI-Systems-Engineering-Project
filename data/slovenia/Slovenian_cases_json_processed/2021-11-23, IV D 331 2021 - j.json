@@ -1,0 +1,21 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana the case involves the distribution of assets between heirs in slovenia and croatia the total cost of the procedure is 684 euros which the heirs are responsible for paying the duration of the procedure was 10 months and 6 days the final resolution of the case involves the distribution of goods with a total value of 94000 eur the division of these goods is based on a legal agreement between the heirs with one heir receiving the part of the building in slovenia and the other receiving the real estates in croatia the court also referred to a testamentary deed and applied intestate succession for the remaining assets the court held a succession hearing and determined that the slovenian court has jurisdiction over the entire succession the court applied the slovenian inheritance act and recognized the designation of the heir in the notarial deed the judgment establishes the extent of the estate and mentions the need for property transfer and obtaining a court certificate to finalize the succession the estimated net value of the estate is 94000 eur and the court fee of 684 eur needs to be paid by the heirs the text also provides instructions for lodging an appeal including the time limit required documents and payment of the court fee the text is dated november 23 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 331/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 62",
+            "Art. 64",
+            "Art. 163"
+        ],
+        "cost": "684,00 EUR court fees",
+        "duration": "10 months and 6 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate, bank accounts, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

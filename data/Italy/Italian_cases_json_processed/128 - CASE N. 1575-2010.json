@@ -1,0 +1,27 @@
+{
+    "content": "this legal text summarizes a court case that took place in tivoli on november 16 2010 the case involved two parties sn and sglcb who were both exercising parental authority over their minor daughters the court ruled in favor of sn dismissing sglcbs request to delete an offensive sentence and award damages the court also recognized sns daughter as an heir to the estate of sa who had passed away the estate included land a building and a garden in fonte nuova the court ordered the dissolution of the community inheritance and granted ownership of a portion of the land to sgl and sbi while sn received compensation in the form of money the court rejected sglcbs counterclaim for damages and dismissed sns request for the release of a ground floor apartment the court declared that the costs of the proceedings would be compensated by the parties involved additionally the court ordered the transcription of the judgment by the registrar of immovable records in rome",
+    "metadata": {
+        "CASE_ID": "Tribunale Tivoli, 16/11/2010, n.1575",
+        "civil_codes_used": [
+            "Art. 536",
+            "Art. 566",
+            "Art. 720",
+            "Art. 2725",
+            "Art. 737",
+            "Art. 746",
+            "Art. 747",
+            "Art. 40",
+            "Art. 96"
+        ],
+        "cost": "290.000,00 EUR compensation",
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "land, building, garden",
+        "disputed_issues": "none",
+        "relationship_between_parties": "father and daughter",
+        "number_of_persons_involved": 4
+    }
+}

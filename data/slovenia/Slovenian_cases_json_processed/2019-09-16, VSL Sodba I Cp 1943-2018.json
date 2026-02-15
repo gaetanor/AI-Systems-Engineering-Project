@@ -1,0 +1,20 @@
+{
+    "content": "this is a summary of a legal case involving two parties whose names are not mentioned the case revolves around the division of immovable property and the interpretation of a will the court of first instance initially ruled in favor of the defendant but the court of appeal overturned this decision and granted the applicants claim in its entirety the court determined that the applicant should inherit an old house outbuildings and various plots of land while the defendant was entitled to a specific parcel of land the court also ordered the defendant to reimburse the applicant for the costs of the legal proceedings the case is based on the inheritance act of 1976 and involves multiple plots of land the court of appeals decision is final and the case is now concluded",
+    "metadata": {
+        "CASE_ID": "VSL Sodba I Cp 1943/2018",
+        "civil_codes_used": [
+            "Art. 8",
+            "Art. 84"
+        ],
+        "cost": "EUR 1.650,79 proceeding fees",
+        "duration": "No data",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "subject_of_succession": "Immovable property",
+        "disputed_issues": "division of assets",
+        "testamentary_clauses": [
+            "interpretation of a will"
+        ]
+    }
+}

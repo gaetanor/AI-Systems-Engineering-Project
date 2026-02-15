@@ -1,0 +1,16 @@
+{
+    "content": "this legal text provides a summary of the progress of a specific case without mentioning the names of the parties involved the case began with the filing of a complaint by one party against another followed by the defendant filing an answer both parties then engaged in the discovery process exchanging documents and conducting depositions if a settlement was not reached the case proceeded to trial where both parties presented their arguments and evidence after the trial the court issued a judgment determining the outcome of the case either party had the option to file an appeal which would be reviewed by a higher court the text does not provide information on the outcome of the appeal or any further steps in the case the case involved a dispute over the dissolution of a community inheritance with the judge making decisions regarding the distribution of properties and settlement of financial obligations the ruling was made on july 27 2021 by judge dr a in lecce italy",
+    "metadata": {
+        "CASE_ID": "20000938/2007",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 1418"
+        ],
+        "cost": "4,901.64 EUR compensation ",
+        "duration": "14 years",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "presence_of_children": false
+    }
+}

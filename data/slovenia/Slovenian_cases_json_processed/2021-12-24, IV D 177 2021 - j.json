@@ -1,0 +1,18 @@
+{
+    "content": "the district court in ljubljana made a decision on december 24 2021 regarding a legal case involving an inheritance the case involved two heirs referred to as heir 1 and heir 3 who were required to pay taxes on the inherited assets the procedure lasted for 11 months and 11 days the final resolution distributed assets worth 125600 eur among three heirs with the widow receiving personal funds and insurance policies the daughter receiving nothing and the son receiving real estate and a car the court based its decision on the inheritance act and the civil procedure act the court received a death certificate and determined that the deceased did not leave a will so the legal succession process applied the court proceeded with the necessary steps in the legal process including registering the property and transferring funds to the heirs the heirs were responsible for paying their share of the inherited property the text also provided instructions for lodging an appeal including the time limit required documents and payment of a court fee the document was dated december 24 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 177/2021",
+        "civil_codes_used": [
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "738,00 EUR court fees",
+        "duration": "11 months and 11 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, insurance policies, car",
+        "number_of_persons_involved": 3
+    }
+}

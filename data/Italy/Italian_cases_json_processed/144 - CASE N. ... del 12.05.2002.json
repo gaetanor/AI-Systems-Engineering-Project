@@ -1,0 +1,17 @@
+{
+    "content": "this legal text summarizes a court case in brindisi regarding the inheritance of n tommaso the court declared the succession open and identified the property that would be divided among the heirs including land and a building in francavilla fontana the court also declared a contract signed by n tommasos mother invalid and ordered n d d a to pay for her funeral expenses the case involved several years of legal proceedings including the submission of evidence and hearings the court determined that the contract was a modal donation and not a valid sale the court dismissed some claims made by the plaintiff including expenses for the care of n tommasos mother and damages suffered the court also addressed the possession of inherited property by n e and c s and determined the specific properties included in the inheritance the court ordered the parties to fulfill certain obligations and expenses associated with the division of the property the court made a final decision declaring the opening of n tommasos succession and dividing the hereditary property equally among n e n d and n s the court rejected the plaintiffs claims against the defendant and ordered the sale of the indivisible hereditary assets the parties involved are responsible for paying the costs of the case the decision was made on april 22 2002 by the council chamber civil section",
+    "metadata": {
+        "CASE_ID": "Tribunale Brindisi, 12/05/2002 N. \u2026.",
+        "civil_codes_used": [
+            "Art. 793",
+            "Art. 1113"
+        ],
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "land, building",
+        "disputed_issues": "validity of will",
+        "number_of_persons_involved": 3
+    }
+}

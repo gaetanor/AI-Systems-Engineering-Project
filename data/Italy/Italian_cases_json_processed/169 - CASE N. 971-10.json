@@ -1,0 +1,18 @@
+{
+    "content": "this legal text explains the progress of a case that has been ongoing for 17 years the court of bari made a final ruling in favor of the plaintiffs ordering the dissolution of the community inheritance the assets including land buildings apartments and cash balances were divided among the heirs the court also determined the apportionment of hereditary liabilities based on settlement agreements the defendants were ordered to pay additional indemnity and half of the costs and fees of the case the courtappointed expert witness provided a report supporting the division of assets the court found the defendants claims to be unfounded and upheld the validity of the settlement agreements the court also addressed the valuation of inherited assets and determined the sums owed to the plaintiff the judgment is provisionally enforceable by law",
+    "metadata": {
+        "CASE_ID": "n.971",
+        "civil_codes_used": [
+            "Art. 581",
+            "Art. 720",
+            "Art. 727"
+        ],
+        "duration": "17 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "land, buildings, apartments, cash balances",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "content": "in this legal case a court in padova italy made a final ruling on a dispute between two parties referred to as bs and bm the court accepted bss claim and determined that they suffered a legitimate injury of \u20ac2512689 in relation to an inheritance from their mother fv the court also ordered a reduction in a donation made by fv to bm and assigned bs a share of the properties involved bm was also ordered to reimburse bs for the costs of the litigation the court based its decision on various articles of the civil code the case involved the inheritance of fv who appointed her daughter s as the universal heir leaving a rightful share to her other daughter m the court considered two donations made by fv to bm and examined the ownership of certain properties the court rejected the defendants claims of falsification and nullity of contracts and donations ultimately the court ordered a reduction in the donation made to the defendant and assigned a share of the properties to the plaintiff the defendant was also ordered to reimburse the plaintiff for the costs of the litigation the ruling was made in padua italy on march 20 2018 and filed with the court chancery on april 4 2018",
+    "metadata": {
+        "CASE_ID": "Tribunale Padova sez. I, 04/04/2018, n.754",
+        "civil_codes_used": [
+            "Art. 537",
+            "Art. 556",
+            "Art. 560",
+            "Art. 564",
+            "Art. 1417",
+            "Art. 2220"
+        ],
+        "cost": "Euro 7'254.00 fees",
+        "duration": "years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "properties",
+        "disputed_issues": "validity of will",
+        "relationship_between_parties": "sisters",
+        "number_of_persons_involved": 2
+    }
+}

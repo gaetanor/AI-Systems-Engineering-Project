@@ -1,0 +1,18 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the decision identified as iv 9612021 was made on august 18 2022 the case involved two parties referred to as heir 1 and heir 2 the total costs of the procedure were 208800 eur with heir 1 paying 92000 eur and heir 2 paying 116800 eur the procedure lasted from february 17 2021 to august 18 2022 taking one year and six months to complete the final resolution of the case involved the distribution of assets and funds including a car real estate properties and bank accounts there were two heirs both daughters of the deceased the first heir received certain real estate properties unpaid pension funds a car and half of the funds in the bank accounts the second heir received a different real estate property and the other half of the funds in the bank accounts the decision was based on the principles of the inheritance act specifically article 11 and the agreement between the parties played a significant role in the outcome",
+    "metadata": {
+        "CASE_ID": "IV D 961/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "2.088,00 EUR compensation",
+        "duration": "1 year and 6 months",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on a bank account, unpaid pension benefits, car, real estate",
+        "relationship_between_parties": "daughters of the deceased",
+        "number_of_persons_involved": 2
+    }
+}

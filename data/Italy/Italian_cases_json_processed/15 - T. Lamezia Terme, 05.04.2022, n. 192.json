@@ -1,0 +1,20 @@
+{
+    "content": "in this legal case a court in lamezia terme issued a final resolution after a 14year duration the court declared the defendants in default and rejected the plaintiffs claim challenging the validity of a public document the court also rejected the plaintiffs claims for damages and declared the succession of a deceased individual the court deemed the counterclaim for division of assets inadmissible and rejected the claims made by the defendant the court fully compensated the litigation costs for both parties the court based its decision on various articles of the civil code including those related to nullity incapacity and public documents the plaintiff alleged that the public document was invalid due to the absence of the testators signature and the testators alleged incapacity at the time of drafting the plaintiff also claimed that the defendant had appropriated a sum of money and real estate properties from the deceaseds estate the defendant contested these claims and filed a counterclaim for the division of assets after examining the evidence and witness testimonies the court concluded that the plaintiffs claims for nullity and annulment were unfounded the court also found no evidence to support the plaintiffs claims of appropriation and harm caused by the defendants possession of the real estate properties the court deemed the defendants counterclaim for division of assets inadmissible due to the lack of necessary documentation the court rejected the defendants request for reimbursement of expenses incurred on behalf of the deceased as these expenses fell under natural obligations the courts final judgment dismissed all opposing requests exceptions and objections and fully compensated the litigation costs for both parties",
+    "metadata": {
+        "civil_codes_used": [
+            "Art. 603",
+            "Art. 606",
+            "Art. 591"
+        ],
+        "cost": "not determined",
+        "duration": "14 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "assets",
+        "disputed_issues": "validity of will",
+        "relationship_between_parties": "parent-child",
+        "number_of_persons_involved": 2
+    }
+}

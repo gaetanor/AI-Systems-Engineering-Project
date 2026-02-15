@@ -1,0 +1,18 @@
+{
+    "content": "this text summarizes a legal case involving the division of assets and funds according to the inheritance act the court made a decision on april 25 2022 after a procedure that lasted for 1 year 3 months and 22 days the total value of the assets is 648000 eur including three real estate properties unpaid pension benefits and funds in bank accounts the assets will be divided equally between the deceased persons son and daughter the court also explains the process of appealing a decision including the time frame required documents and fees it is important to note that the appeal must be submitted by a lawyer or someone who has passed the state examination in law",
+    "metadata": {
+        "CASE_ID": "IV D 62/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "216,00 EUR fees with  6'480.00 EUR inheritance asset value",
+        "duration": "1 year, 3 months and 22 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

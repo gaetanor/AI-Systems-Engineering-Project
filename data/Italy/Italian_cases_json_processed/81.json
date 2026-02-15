@@ -1,0 +1,13 @@
+{
+    "content": "this legal text summarizes a notary document from june 28 2010 involving two parties referred to as mrs ami and mrs ama they are joint owners of two apartments in castelfidardo italy the apartments are described in detail including their rooms and cadastral income the parties have decided to partially terminate their joint ownership and divide the properties into two shares mrs ami is assigned the first share which includes the firstfloor apartment and mrs ama is assigned the second share which includes the secondfloor apartment each share has a specified value of \u20ac45000 the document is signed by the parties and the notary",
+    "metadata": {
+        "CASE_ID": "Notary MB, 28/6/2010",
+        "cost": "45,000 EUR value ",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "apartments",
+        "number_of_persons_involved": 2
+    }
+}

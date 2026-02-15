@@ -1,0 +1,17 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the decision identified as iv 9512021 was made on july 28 2022 the legal case involved the distribution of assets and benefits with a total value of 47000 eur and a pension benefit of 670 eur two heirs who are both sons of the deceased are responsible for paying half of the procedure costs which amount to 567 eur the goods including real estate and pension benefits are divided equally between the two heirs the court made a decision based on the inheritance act specifically article 8 the deceased person had a daughter and was a citizen of the republic of slovenia the estate includes pension benefits and real estate which is divided into five shares the first order of heirs includes the two sons who will each receive a 12 share of the inheritance a probate hearing was held on july 1 2022 where the legitimate illegitimate and adopted children of the deceased accepted their share of the inheritance the value of the estate was determined based on various documents the net value of the estate is estimated to be 47000 eur and a court fee of 567 eur is to be paid by the heir the text also explains the process of filing an appeal in a legal case the appellant has 15 days to file an appeal after receiving a written copy of the decision the appeal must be submitted to the appropriate court along with enough copies for all parties involved the appeal will be decided by the ljubljana high court it is important to include specific details in the notice of appeal such as the order being appealed the grounds for the appeal and whether it is being challenged in whole or in part if any elements are missing or unclear the court will ask the appellant to correct or supplement the appeal the appeal must be filed by someone who has passed the state lawyers examination and a court fee must be paid failure to meet these requirements will result in the appeal being dismissed",
+    "metadata": {
+        "CASE_ID": "IV D 951/2021",
+        "civil_codes_used": [
+            "Art. 8"
+        ],
+        "cost": "567,00 EUR court fees with 47'000.00 EUR of inheritance value",
+        "duration": "No data",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "pension benefits, real estate",
+        "number_of_persons_involved": 2
+    }
+}

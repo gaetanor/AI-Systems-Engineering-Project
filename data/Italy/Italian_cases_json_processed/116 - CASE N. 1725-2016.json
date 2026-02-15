@@ -1,0 +1,26 @@
+{
+    "content": "this legal text summarizes a court case involving the dissolution of a hereditary community the court rejected the requests and exceptions made by the parties involved the defendant has been ordered to pay the plaintiff a sum of e 3087289 along with legal interest the court discussed various legal principles related to the case such as the reserve benefit for children reduction of portions for legitimate heirs and the action of successors the court examined evidence presented by both parties including documentation and witness testimonies the court concluded that the claims made by the plaintiff were unfounded while the counterclaims made by the defendant were also rejected the court determined that the estate of the deceased was worth e 9261868 which should be contributed to the hereditary community therefore the defendant was ordered to pay a portion of this sum to the plaintiff the court also stated that the costs of the trial would be fully offset by the parties involved the final decision was made on august 19 2016 by the civil court in lucca with the report provided by dr sm the ruling was filed in the clerks office on the same day",
+    "metadata": {
+        "CASE_ID": "n.1725",
+        "civil_codes_used": [
+            "Art. 537 reserve for the benefit of children",
+            "Art. 553 Reduction of portions of legitimate heirs in competition with legitimates",
+            "Art. 563 Action against successors in title from donees subject to reduction",
+            "Art. 565 Categories of successibles",
+            "Art. 566 Succession of children",
+            "Art. 737 Persons liable for collation",
+            "Art. 1417 simulation evidence",
+            "Art. 2932 Specific performance of the obligation to conclude a contract"
+        ],
+        "cost": "30,872.89 EUR compensation",
+        "duration": "years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "father and son",
+        "number_of_persons_involved": 2
+    }
+}

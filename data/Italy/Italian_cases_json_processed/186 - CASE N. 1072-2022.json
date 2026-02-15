@@ -1,0 +1,24 @@
+{
+    "content": "the court has issued a final ruling in a legal case regarding the division of an inheritance the court has dissolved the community inheritance and opened the succession of the deceased individuals the properties involved in the case have been described and awarded to one of the parties the other party has been ordered to pay a sum of money the court has considered the arguments and evidence presented by both parties and made a decision based on applicable laws the court has also addressed the issue of mediation declared it null and void and appointed an expert witness to provide clarification on certain aspects of the case the expert witness conducted surveys and assessments of the properties and the court considered their report in making a decision on the division and value of the properties the court has ordered the payment of sums of money including interest and specified the allocation of costs and expenses between the parties the judge has made the final ruling in the case",
+    "metadata": {
+        "CASE_ID": "1072/2022",
+        "civil_codes_used": [
+            "Art. 456",
+            "Art. 718",
+            "Art. 720",
+            "Art. 757",
+            "Art. 576",
+            "Art. 788",
+            "Art. 789"
+        ],
+        "cost": "52'487.63 EUR compensation",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heirs",
+        "number_of_persons_involved": 3
+    }
+}

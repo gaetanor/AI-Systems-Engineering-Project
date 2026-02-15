@@ -1,0 +1,20 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the decision identified as iv 2812021 was made on june 30 2021 the court fees amounted to 846 euros and the heir involved in the case is responsible for paying onethird of these costs the duration of the procedure was from january 15 2021 to june 30 2021 lasting for 5 months and 16 days the final resolution of the case involves the distribution of goods with a total value of 18200000 eur there are three heirs involved and an agreement was made to adjust the distribution the widow inherits the goods in slovenia while the two daughters each inherit half of the real estate in croatia the court used the inheritance act and the civil procedure act to make the decision the court received the death certificate of the deceased and determined that they had two daughters it was found that the slovenian court had jurisdiction over the entire succession and the slovenian inheritance act was applied the heirs submitted a joint application to settle the deceaseds assets and waived their right to a probate hearing the court ordered the registration of the property in the name of the heiress and the transfer of funds must be arranged by her the net value of the estate is 182000 eur and the heirs are liable to pay onethird of the assessed amount after deducting funeral expenses and court fees the text also explains the instructions for lodging an appeal which must be done within 15 days of receiving a written extract of the decision the appeal must be lodged with the appropriate court and include the order being appealed the grounds for the appeal and all necessary information for the court to consider it if the appeal is lodged by a proxy the proxy must be a lawyer who has passed the state lawyers examination and the court fee must be paid when lodging the appeal",
+    "metadata": {
+        "CASE_ID": "IV D 281/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 163",
+            "Art. 279.a"
+        ],
+        "cost": "846,00 EUR with one third of inheritance assets value compensation (60'000.00 EUR)",
+        "duration": "5 months and 16 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts",
+        "relationship_between_parties": "widow and two daughters",
+        "number_of_persons_involved": 3
+    }
+}

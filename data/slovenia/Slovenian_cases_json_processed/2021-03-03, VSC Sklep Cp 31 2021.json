@@ -1,0 +1,17 @@
+{
+    "content": "this legal text summarizes a case titled vsc sklep cp 312021 which was filed on march 3 2021 the case involves an inheritance dispute over the assets of a deceased person specifically a car the court has determined that the deceased persons son daughter and commonlaw partner are the intestate heirs and will inherit the estate the commonlaw partner will receive onethird of the estate an appeal has been allowed and the court has annulled the previous order and referred the case back to the court of first instance for fresh proceedings the court decision is based on the inheritance act and was made on march 3 2021 the court of appeal is considering an application related to the civil procedure code and the law of succession which raises the question of whether new facts and the right to inherit should be considered in succession proceedings the parties involved have been warned about their obligations and the consequences of not fulfilling them within the specified time limit the court has made a judgment regarding the motor car identifying the parties involved as the deceaseds son daughter and commonlaw partner the court has declared them as intestate heirs with the commonlaw partner receiving onethird of the estate the deceaseds children have appealed the order contesting the commonlaw partners status and claiming that they should not be included as an heir the court will consider the arguments and make a decision on the appeal the court emphasizes the importance of considering new facts and obligations in succession proceedings and disregards a previous order made without proper consideration the court requests written declarations from the parties regarding their acceptance or waiver of the inheritance and information on funeral costs the appeal has been allowed and the case has been remitted back to the lower court for a fresh procedure the lower court is instructed to conduct a succession hearing and consider the arguments regarding the right to inherit the court of appeal states that holding a hearing at the appellate stage would infringe on the parties constitutional rights the decision on costs is reserved for the final decision",
+    "metadata": {
+        "CASE_ID": "VSC Sklep Cp 31/2021 (3. 3. 2021) VSC00069177",
+        "civil_codes_used": [
+            "Art. 10"
+        ],
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "car",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "son, daughter, and common-law partner",
+        "number_of_persons_involved": 3
+    }
+}

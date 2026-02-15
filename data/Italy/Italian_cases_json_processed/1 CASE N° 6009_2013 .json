@@ -1,0 +1,16 @@
+{
+    "content": "this legal text provides a summary of a case that lasted for 7 years from september 20 2005 to april 18 2013 the case involves two brothers one owing a debt of 1286676 euros and the other owing a debt of 1731866 euros the court is dividing the assets of a bankrupt company between the two parties with one party receiving 23 of the assets and the other party receiving 13 the text explains that the portions or shares of coheirs are determined by article 727 of the civil code which states that they should ideally be divided equally however the parties involved can agree to divide the estate differently if they wish the case also involves the dissolution of a partnership or joint ownership with one party represented by their attorney and the other party represented by their own lawyer the court is being asked to divide three separate real estate units which are encumbered by a judicial mortgage of \u00a3150000000 the court determines the allocation of the properties and addresses the adjustment of quotas and the double mortgage registration the court also grants the application of a temporary curator for certain properties and orders the cancellation of a mortgage registration on one of the properties the ruling is final and was made by a judge in naples on april 18 2013",
+    "metadata": {
+        "CASE_ID": "6009/2013",
+        "civil_codes_used": [
+            "Art. 727"
+        ],
+        "duration": "7 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "bankrupt company assets",
+        "relationship_between_parties": "brothers",
+        "number_of_persons_involved": 2
+    }
+}

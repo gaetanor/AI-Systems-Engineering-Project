@@ -1,0 +1,32 @@
+{
+    "content": "this legal text summarizes the progress of a legal case involving multiple parties the court ruled on a claim brought by ma and counterclaims brought by s and rgorg the court declared the succession of cs open and determined the lawful heirs they rejected one counterclaim and distributed the property and funds among the heirs according to the testamentary dispositions the court also addressed interpretation issues in the testament made decisions on asset division and inheritance tax payment and reserved the decision on costs and final judgment the court in reggio calabria declared the succession of cs determined the lawful heirs and their shares of the estate rejected a counterclaim declared ownership of a specific piece of land identified the entitled heirs ruled on compensation claims related to another piece of land ordered the continuation of the trial and reserved the final judgment on court costs",
+    "metadata": {
+        "CASE_ID": "Tribunale Reggio Calabria, 02/01/2004 N. \u2026",
+        "civil_codes_used": [
+            "Art. 457",
+            "Art. 588",
+            "Art. 655",
+            "Art. 469",
+            "Art. 674",
+            "Art. 727",
+            "Art. 732",
+            "Art. 734",
+            "Art. 752",
+            "Art. 754",
+            "Art. 757",
+            "Art. 760",
+            "Art. 1362"
+        ],
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "property",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3,
+        "testamentary_clauses": [
+            "legacies",
+            "trusts"
+        ]
+    }
+}

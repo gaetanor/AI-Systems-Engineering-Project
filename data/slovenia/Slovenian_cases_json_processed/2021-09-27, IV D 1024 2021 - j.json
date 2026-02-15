@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana the court case involved the division of assets among three heirs after the death of an individual the total value of the assets is 122000 eur and includes unpaid pension benefits funds in a bank account a motorbike and real estate properties each heir initially inherits onethird of the assets but adjustments were made based on their specific circumstances the widow inherits the pension benefits and funds in the bank account while one son inherits the motorbike the other son has chosen to waive their share of the assets the court made the decision based on the inheritance act specifically article 11 the court received a death certificate for the deceased person who was married and had two sons since there was no will the law states that the estate should be inherited by the children and spouse the court summoned the heirs and requested declarations regarding the inheritance the heirs agreed to waive the probate hearing and submitted their declarations based on these declarations the court assigned the heirs their respective shares of the estate the court also determined that one of the heirs is responsible for paying the court fee the text provides instructions for lodging an appeal including the time limit and requirements for the notice of appeal the appeal will be decided by the ljubljana high court",
+    "metadata": {
+        "CASE_ID": "IV D 1024/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "738,00 EUR court fees",
+        "duration": "7 months and 10 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "unpaid pension benefits, funds on the bank account, motor bike JAWA 353, real estate 1, real estate 2, real estate 3, real estate 4",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "widow, sons",
+        "number_of_persons_involved": 3
+    }
+}

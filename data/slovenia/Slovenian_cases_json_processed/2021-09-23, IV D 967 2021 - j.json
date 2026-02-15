@@ -1,0 +1,21 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the decision identified as iv 967202 was made on september 23 2021 the text provides a summary of a legal case involving the division of assets among two heirs the assets include real estate properties a bank account and a savings book the court determined that the deceased persons daughter and son are the primary heirs with the daughter entitled to half of the inheritance however the daughter chose to waive her share allowing the son to inherit the entire estate the court received a death certificate and determined the rightful heirs the court has the option to make a decision without holding a probate hearing if all parties agree to waive it which they did in this case the court has made a ruling and the heir must arrange for the transfer of the property and withdrawal of funds once the courts decision becomes final the heir is responsible for paying court fees according to the law the text also explains the process of appealing a decision which must be done within 15 days of receiving written confirmation the appeal must be lodged with the court and copies provided to all parties involved the appeal must include a statement of the order being appealed grounds for the appeal and the appellants signature a court fee must be paid when lodging the appeal",
+    "metadata": {
+        "CASE_ID": "IV D 967/202",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "No costs",
+        "duration": "7 months and 7 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, savings book",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "daughter and son of the deceased",
+        "number_of_persons_involved": 2
+    }
+}

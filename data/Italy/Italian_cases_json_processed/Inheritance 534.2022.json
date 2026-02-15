@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes a court case involving the division of an estate the case includes two sisters and other individuals who want to divide a property inherited from their late mother the court assigns shares of the property to each party and appoints an expert witness to determine the estates value and create a division plan after considering the evidence and arguments the court grants the plaintiffs request for division and dismisses a counterclaim the court orders the parties to share the costs of the proceedings the courts final decision upholds the application made by one party orders the division of a specific piece of land and buildings assigns a share to one party and determines the shares of the other parties through drawing lots the court rejects a counterclaim and orders the judgment to be transcribed in the land registers the court also determines that the estate will bear the costs of the courtappointed expert and compensates all parties for the remaining court costs",
+    "metadata": {
+        "CASE_ID": "534",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 729"
+        ],
+        "cost": "not specified, compensation",
+        "duration": "8 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

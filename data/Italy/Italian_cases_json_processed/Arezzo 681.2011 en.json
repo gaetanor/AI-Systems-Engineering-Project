@@ -1,0 +1,17 @@
+{
+    "content": "this is a legal summary of a court case that took place in arezzo in 2011 the specific details and parties involved are not mentioned the plaintiff incurred costs of \u20ac596200 while the defendant claims to have a position of \u20ac7000 the court made a final decision regarding the division of property in a community inheritance case the property is located in cortona and was divided according to a project proposed by an expert appointed by the court the division was determined by drawing lots and each party was assigned specific portions of the property one party is required to pay an adjustment amount of \u20ac10000 the court also orders the costs of the experts report and other related expenses to be divided proportionally between the parties the court dismissed some claims and ordered one party to pay a specific sum plus interest the court also ordered the judgment to be transcribed by the competent registrar",
+    "metadata": {
+        "CASE_ID": "681",
+        "civil_codes_used": [
+            "Art. 183"
+        ],
+        "cost": "10'000.00 EUR of compensation and fees ",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "community of property inheritance",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

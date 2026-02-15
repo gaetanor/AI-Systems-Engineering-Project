@@ -1,0 +1,24 @@
+{
+    "content": "this legal text summarizes a court case that took place in teramo the case involved several parties but their names are not mentioned the judge accepted the application and ordered the defendants to divide certain parcels of land as specified in a previous judgment the plaintiff also sought damages from the defendants for opposing the division the defendants argued that the division was unfair and that they had purchased a portion of the property from another party however the court found that the division was valid and ordered the defendants to proceed with it the court also dismissed the plaintiffs claim for damages throughout the case evidence was submitted and briefs were filed in the end the court granted the plaintiffs request for division and determined the costs of the litigation the judge made a final ruling ordering the defendants to divide the land and pay the plaintiffs court costs compensation and documented expenses the ruling was made on 02252015 in teramo and filed with the clerks office on 06032015",
+    "metadata": {
+        "CASE_ID": "Tribunale Teramo, 06/03/2015, n.371",
+        "civil_codes_used": [
+            "Art. 1113",
+            "Art. 784"
+        ],
+        "cost": "2'427.66 EUR fees",
+        "duration": "years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 3,
+        "testamentary_clauses": [
+            "legacies",
+            "trusts"
+        ]
+    }
+}

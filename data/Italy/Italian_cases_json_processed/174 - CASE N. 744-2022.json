@@ -1,0 +1,18 @@
+{
+    "content": "this legal text summarizes a court case that took place in pisa the court ruled in favor of mg mm and mmr who were requesting the dissolution of a community property the property belonged to the heirs of pa who inherited it after the death of their father mn the court determined that the estate was worth 452000 euros and divided it equally among the three heirs the court also ordered the sale of a property that was part of the estate additionally mm was ordered to pay mg an occupation indemnity of 3992685 euros along with court costs and attorneys fees the court rejected the sisters claims and declared the properties to be divisible the judgment is final and was filed with the court registry on june 6 2022",
+    "metadata": {
+        "CASE_ID": "Pisa",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 717",
+            "Art. 720",
+            "Art. 820"
+        ],
+        "cost": "Euro 10'250.00 compensation",
+        "duration": "8 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "number_of_persons_involved": 3
+    }
+}

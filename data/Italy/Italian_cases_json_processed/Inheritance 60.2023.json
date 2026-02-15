@@ -1,0 +1,17 @@
+{
+    "content": "this legal text summarizes a court case involving two brothers their mother and another party the plaintiff sued his brother and mother to dissolve the community property inherited from their deceased father the defendant brother agreed to dissolve the community property but disputed the existence of the family business and the value of certain properties another party joined the case and supported the dissolution of the community property the court issued a partial judgment declaring the legitimate succession and ordering the dissolution of the community property a courtappointed expert prepared a division plan which was revised based on the defendants requests the plaintiff objected to the division plan but the court issued a final division order determining the compensation the plaintiff should receive for exclusive use of the inherited property the court also addressed unsuccessful applications and determined the allocation of costs the judge made a final decision rejecting opposing requests and objections the judge ordered one party to pay the other a monthly sum starting from a specific date assigned ownership of certain properties to each party and ordered additional payment the judge also mentioned the compensation of costs related to the dispute",
+    "metadata": {
+        "CASE_ID": "Tribunale Asti sez. I, 31/01/2023, n.60",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 746"
+        ],
+        "cost": "not specified, compensation",
+        "duration": "6 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3
+    }
+}

@@ -1,0 +1,18 @@
+{
+    "content": "this legal text summarizes the progress of a court case regarding an inheritance the court decision was made by the district court in ljubljana slovenia on march 7 2022 the procedure lasted for one year two months and four days the case involved the distribution of various assets worth 318000 euros including real estate a bank account subfund units pension benefits securities and a car the assets will be divided equally between two heirs the court applied the inheritance act specifically articles 10 and 11 the court identified the coownership shares of the real estate properties and determined the hereditary share of the two sons as 12 the court issued a final judgment and ordered the land registry to register the ownership rights the heirs will receive a certificate of finality from the registry court the text also provides instructions for lodging an appeal including the time limit submission requirements and payment of court fees the date of this legal instruction is march 7 2022 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 64/2021",
+        "civil_codes_used": [
+            "Art. 10",
+            "Art. 11"
+        ],
+        "cost": "1.080,00 EUR fees with inheritance assets worth 318'000,00",
+        "duration": "1 year, 2 months and 4 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, company shares, pension benefits, securities, car",
+        "number_of_persons_involved": 2
+    }
+}

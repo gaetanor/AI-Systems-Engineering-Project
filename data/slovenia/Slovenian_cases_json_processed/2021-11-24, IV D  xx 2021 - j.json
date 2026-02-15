@@ -1,0 +1,20 @@
+{
+    "content": "this is a legal document from the district court in ljubljana slovenia regarding a decision made on november 24 2021 the document provides information about a cost procedure that started on january 13 2021 and ended on december 24 2021 lasting for a total of 11 months and 11 days the final resolution of the case involves the distribution of various assets with a total value of 125600 eur including a piece of land with a house funds in a personal account a voluntary supplementary pension insurance policy an insurance policy a car and unpaid pension benefits the widow receives personal funds unpaid pension benefits the surrender value of the voluntary supplementary pension insurance policy and an insurance policy the daughter receives nothing the son receives the real estate and the car the decision in this legal case was based on the inheritance act and the civil procedure act the deceased person had a son and was a citizen of the republic of slovenia the firstorder heirs are the deceased persons widow daughter and son who will each receive a onethird share of the inheritance one of the heirs waived their share the court also mentioned an inheritance agreement but some parts of it are missing",
+    "metadata": {
+        "CASE_ID": "IV D /2021",
+        "civil_codes_used": [
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "assets with a total value of 125'600.00 EUR",
+        "duration": "11 months and 11 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, funds on personal account, surrender value of insurance, insurance policy, car, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "widow, daughter, son",
+        "number_of_persons_involved": 3
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "content": "this text is about a legal case reference number 4432014 involving a participant who is owed 1100 euros the case lasted for almost four months from november 5 2014 to march 3 2015 the agreement between the parties stated that one party would receive half of the goods the case was about the division of inheritance rights among the parties involved mediation process began on march 3 2015 and several meetings were held on february 25 2015 an agreement was reached and documented in a private contract the parties declared their satisfaction and agreed to close the proceedings the costs of mediation were determined based on the value of the inheritance and the parties agreed to pay the specified amount the private contract was signed by all parties and their respective attorneys",
+    "metadata": {
+        "CASE_ID": "443/2014",
+        "civil_codes_used": [
+            "Art. 536"
+        ],
+        "cost": "1100 euro fees",
+        "duration": "4 months",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 5
+    }
+}

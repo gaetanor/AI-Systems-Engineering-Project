@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana the court determined that heir 1 is responsible for paying the costs of 108656 eur the procedure started on january 22 2021 and concluded on september 27 2021 lasting 8 months and 6 days the case involves dividing the deceased persons assets among three heirs with each entitled to onethird of the assets adjustments were made due to specific circumstances such as the widower receiving one property share and one heir waiving their share the court identified the deceased persons estate including real estate properties and funds in bank accounts the court received a death certificate and determined the legitimate heirs the heirs agreed to waive a probate hearing and submitted written declarations accepting their assigned shares the court made a decision based on this information and one heir will receive the entire estate the net value of the estate is 17990000 eur the legal text also provides instructions for lodging an appeal including the time limit and requirements",
+    "metadata": {
+        "CASE_ID": "IV D 438/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 163",
+            "Art. 279.a"
+        ],
+        "cost": "1.086,56 EUR",
+        "duration": "8 months and 6 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts",
+        "number_of_persons_involved": 3
+    }
+}

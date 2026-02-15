@@ -1,0 +1,23 @@
+{
+    "content": "this is a summary of a legal text explaining the progress of a court case regarding an inheritance dispute the court in palermo issued a final ruling after 6 years the court declared the application for division of property admissible but the application for compensation for the loss of enjoyment of the property was declared inadmissible the court partially accepted the application for division and ordered the dissolution of the community between the parties various assets including interestbearing bonds and a postal passbook were listed for division the court determined the amount of payment to be made to one party including legal interest and condemned the other party to make payments to the first party also including legal interest the costs of litigation were divided equally between the parties with some reductions and general expenses taken into account the court placed the burden of technical expertise costs on the treasury with a reduction for the party admitted to legal aid the court ordered the transmission of a copy of the judgment and technical report to the relevant authorities the judgment was prepared as a computer document with a digital signature in accordance with legal requirements various articles of the civil code were applied in the case the ruling was pronounced by a judge in the civil section ii of the palermo court",
+    "metadata": {
+        "CASE_ID": "1240/2022",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 720",
+            "Art. 757",
+            "Art. 762",
+            "Art. 763",
+            "Art. 1111",
+            "Art. 1112",
+            "Art. 1418",
+            "Art. 2932"
+        ],
+        "duration": "6 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "various assets",
+        "disputed_issues": "division of assets"
+    }
+}

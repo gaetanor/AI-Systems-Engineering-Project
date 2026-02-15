@@ -1,0 +1,15 @@
+{
+    "content": "this legal document explains the progress of a case involving two parties the case is about the ownership of a plot of land in municipality numana the land was acquired by a company called ir srl in april 2007 in july 2009 the land was divided into two separate properties the first property borders another property and measures 523 square meters while the second property borders a road and measures 524 square meters according to the document the company ir srl will keep ownership of the first property and the second property will be given to mrs bom each share is valued at 50000 euros the document is signed by a notary and the parties involved",
+    "metadata": {
+        "CASE_ID": "Notary MB, 29/7/2009",
+        "civil_codes_used": [
+            "Art. 523",
+            "Art. 524"
+        ],
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "subject_of_succession": "plot of land",
+        "number_of_persons_involved": 2
+    }
+}

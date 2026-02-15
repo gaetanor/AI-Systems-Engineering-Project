@@ -1,0 +1,24 @@
+{
+    "content": "this legal text summarizes a court case that took place in vicenza the case involved multiple parties referred to as plaintiffs and defendants who coowned a property the plaintiffs filed a lawsuit to divide the property and the court determined that it could be divided the court ordered the distribution of the proceeds from the sale of the property among the coowners the plaintiffs were responsible for bearing the court costs while the defendants who were creditors were responsible for their own costs the court considered various factors such as the feasibility of dividing the property and the expenses incurred during the legal proceedings in making its decision the courts decision was based on fairness and the common interest of the coowners the court of vicenza made a final ruling deciding on the division of expenses among the parties involved the proceeds from the possible sale of assets will be distributed proportionally after deducting the expenses the plaintiffs are required to cover their own court costs while the defendant creditors are not required to pay one of the parties al has been ordered to reimburse court costs in favor of ri srl and ri the courts decision was made on 03122021 and filed in the registry on 14122021",
+    "metadata": {
+        "CASE_ID": "n.2291",
+        "civil_codes_used": [
+            "Art. 1113",
+            "Art. 600"
+        ],
+        "cost": "10'111.86 EUR compensation",
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "co-owners",
+        "number_of_persons_involved": 8,
+        "testamentary_clauses": [
+            "legacies",
+            "trusts"
+        ]
+    }
+}

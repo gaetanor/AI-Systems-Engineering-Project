@@ -1,0 +1,21 @@
+{
+    "content": "the court in this legal text rejects the argument that mandatory mediation was not initiated it confirms that there was no valid reason for transferring \u20ac27500000 to a joint securities account the court declares the transfer null and orders the defendant to return the money to the hereditary estate the court also rejects the request to cancel the assisted negotiation agreement and declares the deceaseds succession open the court orders the dissolution of the hereditary community and assigns specific properties and money to the coheirs the defendant is also ordered to pay balances to the other coheirs the court dismisses the defendants claims and orders them to pay the costs",
+    "metadata": {
+        "CASE_ID": "Court of Sulmona, sec. I, 16/11/2022",
+        "civil_codes_used": [
+            "Art. 190",
+            "Art. 769",
+            "Art. 2041"
+        ],
+        "cost": "93.894,22 inheritance value",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "niece and uncle",
+        "number_of_persons_involved": 3
+    }
+}

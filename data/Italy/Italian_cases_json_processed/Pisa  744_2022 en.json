@@ -1,0 +1,22 @@
+{
+    "content": "this legal text discusses the progress of a court case that took place in pisa in 2022 the specific details of the case are not mentioned but it involves three parties mg mm and mmr the court has made a final ruling on a claim brought by mg against her sisters m and mr p the ruling states that the community property of the three parties is dissolved due to the death of their father mn the property will be divided among the heirs with each receiving a onethird share the value of the estate is determined to be 452000 euros the court orders the sale of assets that are part of the estate mm is ordered to pay mg a compensation occupation sum of 3992685 euros adjusted for inflation and also to pay the costs of the proceedings including lawyers fees mediation costs and general expenses the costs of the courtappointed experts report will be paid from the proceedings the judgment is final and the next step will be the execution of the sale",
+    "metadata": {
+        "CASE_ID": "744",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 720",
+            "Art. 1114",
+            "Art. 820"
+        ],
+        "cost": "EUR 10,250.00 of compensation",
+        "duration": "8 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "property complex",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heirs",
+        "number_of_persons_involved": 3
+    }
+}

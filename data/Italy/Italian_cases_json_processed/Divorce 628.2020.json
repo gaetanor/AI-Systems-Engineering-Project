@@ -1,0 +1,22 @@
+{
+    "content": "this legal text discusses the progress of a case involving the division of property between two parties who are legally separated the plaintiff has requested the division of a property and the return of their share of the civil fruits received while the defendant has requested the rejection of the division and the payment of a sum of money a courtappointed expert has prepared a division plan which has been accepted by both parties the court has decided to allocate one part of the property to each party and has ordered the defendant to pay a balance to the plaintiff the court has dismissed the claims regarding the return of civil fruits and the counterclaims made by the defendant the legal costs of the proceedings will be shared between the parties the judge has made a final judgment regarding the division of the property disregarding any objections the assets have been allocated according to the courtappointed experts report the defendant is required to make a payment to the plaintiff as an adjustment the judge has dismissed the plaintiffs claim for restitution of civil fruits and the defendants counterclaims both parties are responsible for paying the costs of the proceedings including the courtappointed experts report",
+    "metadata": {
+        "CASE_ID": "628",
+        "civil_codes_used": [
+            "Art. 159",
+            "Art. 177",
+            "Art. 191",
+            "Art. 192",
+            "Art. 194",
+            "Art. 720",
+            "Art. 729"
+        ],
+        "cost": "shared between the parties",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "nature_of_separation": "Judicial",
+        "marital_regime": "community of property",
+        "financial_support": "sum of money"
+    }
+}

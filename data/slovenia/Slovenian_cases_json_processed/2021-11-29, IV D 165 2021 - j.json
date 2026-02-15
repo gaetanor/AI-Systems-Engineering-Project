@@ -1,0 +1,21 @@
+{
+    "content": "the district court in ljubljana made a decision in a legal case involving the division of a deceased persons assets the court fee for the procedure was 738 eur which is to be paid by two heirs the procedure lasted for 10 months and 16 days the deceased persons assets including real estate properties and pension benefits have a total value of 123000 eur the two heirs who are both daughters of the deceased will receive their respective shares of the estate heir 1 will receive 85000 eur and an apartment in the basement while heir 2 will receive the monetary value of her share in the real estate the specific laws applied in this case are the inheritance act and the civil procedure act the court has issued a final judgment and will forward the decision to the land registry for registration of ownership rights one of the heirs plans to borrow against their pension benefits which requires a certificate of finality from the registrar instructions for lodging an appeal are also provided including the time limit and requirements for filing an appeal the instructions were issued on november 29 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 165/2021",
+        "civil_codes_used": [
+            "Art. 163",
+            "Art. 10",
+            "Art. 11",
+            "Art. 279"
+        ],
+        "cost": "738,00 EUR court fees",
+        "duration": "10 months and 16 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, pension benefits",
+        "relationship_between_parties": "daughters of the deceased",
+        "number_of_persons_involved": 2
+    }
+}

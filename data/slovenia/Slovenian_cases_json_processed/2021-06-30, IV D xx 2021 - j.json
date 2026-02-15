@@ -1,0 +1,20 @@
+{
+    "content": "this is a summary of a legal text explaining the progress of a cause the specific details of the case and the parties involved are not provided the court fee for the case was 153 euros the procedure lasted for 5 months and 18 days the final resolution involves the division of goods and funds with a total value of 346833 eur there are two heirs the widow and the son of the deceased according to the law each heir is entitled to half of the goods the widow assigns her share to the son who will receive the goods the decision is based on specific articles of the inheritance act the appellant has 15 days to lodge an appeal providing specific information and grounds for the appeal the appeal must be submitted to the appropriate court along with the court fee if the fee is not paid on time the appeal will be considered withdrawn the appeal is considered lodged on the last day of the appeal period if sent by registered post",
+    "metadata": {
+        "CASE_ID": "IV D (182)",
+        "civil_codes_used": [
+            "Art. 10",
+            "Art. 11",
+            "Art. 129"
+        ],
+        "cost": "153,00 EUR court fees and 346833 EUR inheritance assets",
+        "duration": "5 months and 18 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on personal bank account, unpaid pension benefits",
+        "relationship_between_parties": "widow and son of the deceased",
+        "number_of_persons_involved": 2
+    }
+}

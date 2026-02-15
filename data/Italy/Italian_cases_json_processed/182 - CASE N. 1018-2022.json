@@ -1,0 +1,25 @@
+{
+    "content": "in this legal case a judgment was issued regarding the division of property the plaintiffs and the defendant were involved in the case the court granted the plaintiffs request to divide a specific property a civil residence the court dissolved the community property and awarded ownership of the properties to the plaintiffs and the defendant the plaintiffs were also ordered to pay the defendant a sum of money however the court declared the division of other real estate assets inadmissible due to a lack of relevant titles the court assigned the parties a portion of movable assets and allowed them to withdraw securities and policies other claims were dismissed and the court ruled on various legal principles the court also addressed the reimbursement of expenses incurred by the parties and appointed an expert witness the judge signed the order using a digital signature as required by law",
+    "metadata": {
+        "civil_codes_used": [
+            "Art. 566",
+            "Art. 718",
+            "Art. 720",
+            "Art. 1100",
+            "Art. 1102",
+            "Art. 1105",
+            "Art. 1110",
+            "Art. 785"
+        ],
+        "cost": "26'305.55 EUR compensation",
+        "duration": "years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 3
+    }
+}

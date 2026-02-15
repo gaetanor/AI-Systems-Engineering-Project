@@ -1,0 +1,15 @@
+{
+    "content": "this legal text summarizes a court case that took place in nocera inferiore on april 16 2012 the case number is 321 but no further details about the parties or the case itself are provided in this case one party has been ordered by the court to pay the other party a total of eur 30000 for costs eur 110000 for disbursements and eur 280000 for legal fees the court has also granted the party legal aid which means they will receive financial assistance for their legal expenses additionally the court has approved a flatrate reimbursement for general costs and vat cpa the party has already paid ctu costs which will be deducted from the total amount owed the case spanned from 2010 to 2012 and involved a ruling on the open intestate succession of three individuals who have passed away the court also ordered the dissolution of the community property between the parties and assigned full exclusive ownership of certain properties to each party one party was ordered to pay a balance to the other party along with interest both parties were also ordered to pay certain amounts to each other along with interest the court also ordered the payment of costs and expenses related to the proceedings the case involved a dispute over the division of property located in roccapiemonte with the defendants accused of occupying buildings without permission the court considered expert reports and determined the succession of the property assigned values to the shares and addressed compensation for the use of the property and payment of damages the court also considered the retroactive effect of the division and the obligation to render accounts the judgment is to be transcribed by the registrar",
+    "metadata": {
+        "CASE_ID": "Court sec. II - Nocera Inferiore, 16/04/2012, no. 321",
+        "cost": "EUR 300.00 for disbursements, EUR 1,100.00 for fees and EUR 2,800.00 for expenses",
+        "duration": "2 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3
+    }
+}

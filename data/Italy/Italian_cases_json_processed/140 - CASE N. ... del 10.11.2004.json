@@ -1,0 +1,27 @@
+{
+    "content": "this legal text summarizes a court case that took place in reggio calabria italy the case involved the open succession of a person named ss who passed away in reggio calabria the court declared sss legal heirs to be their wife cd and their children sf and smt the court ordered the dissolution of a shared apartment and its sale through auction with the proceeds divided equally among the parties the court also discussed various legal principles related to spouses and children nondivisible real estate estimation of assets and the assignment of portions the case was initiated by se the attorney general on behalf of sf who claimed their share of the inheritance the defendant smr did not appear in court the court appointed an expert to assess the value of the property and its contents the defendant argued against the division of the property and presented evidence of financial transactions involving the deceased but the court rejected these arguments due to procedural issues and lack of evidence the court also addressed the issue of collation but concluded it was not applicable in this case the court discussed the existence of funds deposited in credit institutions by the deceased but further investigation was needed the court determined the value of the property and its contents and ordered their division among the heirs the court also ordered the sale of the property through auction and the reimbursement of expenses incurred by the expert the court made a final ruling on the claim declaring the open succession of ss and the legal heirs the court ordered the dissolution of the shared apartment and its sale through auction with the proceeds divided equally among the parties the court also ordered the division of the movable property into three lots with specified values for each lot the defendants demand was dismissed the parties were ordered to share the costs of the proceedings except for the costs of the expert report which were to be reimbursed by the defendants the courts decision was made on november 10 2004",
+    "metadata": {
+        "CASE_ID": "Tribunale Reggio Calabria, 10/11/2004 N. \u2026",
+        "civil_codes_used": [
+            "Art. 581",
+            "Art. 720",
+            "Art. 726",
+            "Art. 727",
+            "Art. 728",
+            "Art. 729",
+            "Art. 737",
+            "Art. 741",
+            "Art. 751"
+        ],
+        "cost": "EUR 100'374.88 compensation",
+        "duration": "years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "apartment",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "wife and children",
+        "number_of_persons_involved": 3
+    }
+}

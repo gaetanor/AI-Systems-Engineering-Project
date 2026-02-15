@@ -1,0 +1,16 @@
+{
+    "content": "this legal text is about a case between two parties one representing the republic of estonia and the other party whose name is omitted the court ruled in favor of the defendant and ordered them to pay procedural costs the text mentions a default decision related to a remaining amount in a current account the judgment states that both parties must pay a total sum to each other with one party required to pay a specific amount to the other the judgment also includes orders for the deletion of entries in the land registry and dismisses alternative claims brought by both parties the text also mentions specific amounts in euros related to a person identified as kt and another amount without specifying the person or account it is related to",
+    "metadata": {
+        "CASE_ID": "2-22-12822",
+        "cost": "2'053.82",
+        "duration": "1 year",
+        "law": "Inheritance",
+        "state": "ESTONIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "validity of will",
+        "relationship_between_parties": "heir and de cuius",
+        "number_of_persons_involved": 2
+    }
+}

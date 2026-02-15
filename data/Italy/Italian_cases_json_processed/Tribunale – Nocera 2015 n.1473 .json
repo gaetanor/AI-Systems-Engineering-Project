@@ -1,0 +1,16 @@
+{
+    "content": "this is a summary of a legal case that took place in nocera inferiore on november 5 2015 the court ruled in favor of the defendant rd and ordered the plaintiff to pay the defendants costs the plaintiff was ordered to pay 400000 in fees as well as general costs the court also assigned a lawyer to handle the payment of these costs the case involved a dispute over the validity of certain acts made by the mother mrs gm the plaintiff claimed that his mother was mentally incapacitated and unable to make decisions however the court found that there was no evidence to support this claim and ruled in favor of the defendants the court declared the succession of gm and assigned certain assets to the heirs according to a public deed the court also ordered the plaintiff to pay the costs of the proceedings and the courtappointed experts report these decisions were made on october 30 2015 and filed in the registry on november 5 2015",
+    "metadata": {
+        "CASE_ID": "1473",
+        "cost": "4'000.00 EUR of proceeding fees",
+        "duration": "16 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "flat",
+        "disputed_issues": "validity of will",
+        "relationship_between_parties": "brother and father",
+        "number_of_persons_involved": 3
+    }
+}

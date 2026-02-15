@@ -1,0 +1,20 @@
+{
+    "content": "this legal text summarizes a court case that took place in salerno on march 29 2011 the case involved compensation but unfortunately the parties involved are not mentioned the case lasted for 15 years from 1996 to 2011 the court of salerno made a final judgment declaring the open succession of a deceased individual who did not leave a will the court divided the inheritance into two shares the first share consisted of a flat and a courtyard valued at \u20ac31237600 which was awarded to one party the second share consisted of various real estate properties valued at \u20ac97416899 and was jointly awarded to multiple parties the court ordered the first party to pay the second party a cash balance of \u20ac5225289 plus interest the court dismissed the claims brought by the plaintiff and ordered all parties to pay the costs of the proceedings the plaintiff sued the defendants who are daughtersinlaw and grandchildren of the deceased claiming the right to open the succession and requesting the division of assets the court appointed an expert to assess the property and after considering the experts report determined the division of the estate the court also considered the fruits received from the property and deducted expenses related to improvements and maintenance ultimately the court ordered the division of the estate according to the determined portions and dismissed the plaintiffs claims while also ordering the parties to pay the costs of the proceedings",
+    "metadata": {
+        "CASE_ID": "Court sec. II - Salerno, 29/03/2011, no. 639",
+        "civil_codes_used": [
+            "Art. 184",
+            "Art. 720"
+        ],
+        "cost": "not specified - compensation",
+        "duration": "15 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "daughters-in-law and grandchildren",
+        "number_of_persons_involved": 2
+    }
+}

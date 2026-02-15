@@ -1,0 +1,20 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved the division of goods and funds in an inheritance case the deceased person had a son and a daughter and the estate consisted of funds in a bank account and unpaid pension benefits the court decided that each heir would receive half of the estate the court also mentioned something about the heirs claim to the property but it is not clear what was decided the court received the death certificate of the deceased and proceeded with the case according to the inheritance act the heirs were given a deadline to make declarations regarding the succession and one of the heirs accepted their legal share of the inheritance the court declared the heirs as the first order of succession and stated that the estate would be distributed based on the information provided in the death certificate and land registry the heirs must wait for the decision on the succession to become final before they can make arrangements for the property and withdraw funds the net value of the estate is 1400 eur and the heirs are responsible for a court fee of 81 eur which will be split between them the text also explains the process of filing an appeal in a legal case including the time limit and requirements for submitting the appeal",
+    "metadata": {
+        "CASE_ID": "IV D 273/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 203"
+        ],
+        "cost": "81,00 EUR",
+        "duration": "1 year, 1 months, 24 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on personal bank account, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "son and daughter of the deceased",
+        "number_of_persons_involved": 2
+    }
+}

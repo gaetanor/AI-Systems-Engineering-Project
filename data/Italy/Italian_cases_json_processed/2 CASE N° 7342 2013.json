@@ -1,0 +1,15 @@
+{
+    "content": "this legal text summarizes the progress of a case that lasted for 13 years the winning party received a payment of 1600000 euros to cover fees and expenses the text explains a legal provision in the civil code regarding the distribution of inheritance among coheirs it mentions a specific court case in naples italy where the plaintiffs attorney is requesting the court to declare the open succession of the deceased person and to ascertain disguised donations the court determines that the transactions were indeed disguised donations and orders the defendants to repay the plaintiff the court also grants the plaintiffs request for reinstatement of their legitimate shares and orders the payment of various sums of money the ruling was made on june 3 2013",
+    "metadata": {
+        "CASE_ID": "7342/2013",
+        "cost": "16'000.00 EUR compensation",
+        "duration": "13 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "validity of will",
+        "number_of_persons_involved": 4
+    }
+}

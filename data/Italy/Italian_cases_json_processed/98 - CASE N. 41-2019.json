@@ -1,0 +1,16 @@
+{
+    "content": "this is a summary of a legal case that took place in the court of turin the case involved a dispute over the division of property between the plaintiff and the defendant the court ordered both parties to pay a judicial deposit and dismissed claims made by a thirdparty intervener the court decided that the property should be sold and appointed an appraiser to determine its value after the property was sold the proceeds were divided between the parties taking into account a thirdparty attachment procedure initiated against the defendant the court also denied a request for direct assignment of money made by a thirdparty lawyer the court determined that costs should be borne by the parties in proportion to their shares and ordered reimbursement of costs to the state the courts decision is final and has been filed with the court registry",
+    "metadata": {
+        "CASE_ID": "Tribunale Torino sez. II, 08/01/2019, n.41",
+        "civil_codes_used": [
+            "Art. 720",
+            "Art. 1113",
+            "Art. 2825",
+            "Art. 788"
+        ],
+        "cost": "78,293.10 EUR compensation",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial"
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "content": "the court in rome made a final decision on an inheritance case involving multiple real estate properties they decided that the properties should be divided among the heirs with each heir receiving specific properties an expert was appointed by the court to create a plan for the division and the court followed this plan the court also dealt with issues regarding urban planning irregularities and the need for regularization they ordered the cancellation of mortgages on the properties and determined the costs of the legal proceedings",
+    "metadata": {
+        "CASE_ID": "no.19520",
+        "civil_codes_used": [
+            "art. 728"
+        ],
+        "cost": "euro 15.091 of compensation",
+        "duration": "4 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heirs",
+        "number_of_persons_involved": 2
+    }
+}

@@ -1,0 +1,26 @@
+{
+    "content": "this legal text summarizes a court case that took place in messina on january 18 2016 the case involved multiple parties and lasted for 10 years from 2006 to 2016 the details of the cause are not provided but it revolves around the distribution of an estate after the death of a mother one party emg claimed that a property had been donated to another party es which affected their rightful share of the estate es contested the claim arguing that it was timebarred or acquired through usucaption the court determined that emg had the right to request a reduction of the donated property from ess share the court also determined the value of the estate and the reserved share concluding that emg is entitled to 5475 of the assets left by the deceased sm and es is entitled to 1191 the court ruled that both parties should bear the costs of the proceedings the decision was made by the messina council chamber on january 12 2016 and filed with the registry on january 18 2016",
+    "metadata": {
+        "CASE_ID": "Court sec. I - Messina, 18/01/2016, no. 121",
+        "civil_codes_used": [
+            "Art. 96",
+            "Art. 190",
+            "Art. 553",
+            "Art. 556",
+            "Art. 2946",
+            "Art. 2935",
+            "Art. 747 et seq.",
+            "Art. 555",
+            "Art. 809",
+            "Art. 737",
+            "Art. 566"
+        ],
+        "duration": "10 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "estate",
+        "disputed_issues": "distribution of estate",
+        "number_of_persons_involved": 2
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "content": "in this legal case a court in lucca made several rulings regarding the inheritance of a deceased person the court declared the plaintiff as the legitimate heir and reduced the testamentary provisions made by the deceased they also ordered the dissolution of the community property inherited by the plaintiff and other coheirs the defendant was ordered to compensate the plaintiff for occupying a property that was part of the estate the court referred the case to a separate order to hear the parties division plans for the estate the court cited various articles of the civil code in its decision and provided a detailed assessment of the assets in the estate they calculated the shares due to the plaintiff and other coheirs the court also addressed the costs of the proceedings and the possibility of an appeal the case was remitted to the register for further action and the concerned party was invited to appeal the judgment within a specified time limit",
+    "metadata": {
+        "CASE_ID": "Tribunale Lucca, 03/07/2013, n.791",
+        "civil_codes_used": [
+            "Art. 537",
+            "Art. 542",
+            "Art. 747",
+            "Art. 556",
+            "Art. 720",
+            "Art. 746 ",
+            "Art. 747",
+            "Art. 750",
+            "Art. 1298"
+        ],
+        "cost": "34'560.00 EUR compensation",
+        "duration": "7 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "father and son",
+        "number_of_persons_involved": 3
+    }
+}

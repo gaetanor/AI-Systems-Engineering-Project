@@ -1,0 +1,18 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved four heirs and the court fees amounted to 82800 eur the procedure lasted for 9 months and 25 days the final resolution of the case involved the distribution of various assets including real estate funds in a personal bank account unpaid pension benefits and a car the adjustments made to the original distribution included the widow receiving the money funds one son receiving the car and a share of the real estate and the two daughters each receiving a share of the real estate the court decision was made based on the inheritance act specifically article 11 the deceased person had a son and was a citizen of the republic of slovenia the estate included real estate a personal bank account with unpaid pension benefits and a car the widow son and three daughters were the intestate heirs each with a 14 share the court received the death certificate and proceeded with the inheritance proceedings the court allowed the succession to proceed without a hearing based on written pleadings and evidence the heirs submitted a joint declaration and renounced their rights to certain movable property the court determined the value of the estate and assessed a court fee to be paid by the heirs the court will issue a final judgment and forward it to the land registry for registration of ownership rights the heirs will need a certificate from the court to transfer ownership of cash pension benefits and the car the text also provides instructions for lodging an appeal including the time limit required documents and payment of court fees the appeal will be decided by the ljubljana high court",
+    "metadata": {
+        "CASE_ID": "IV D 955/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "828,00 EUR court fees",
+        "duration": "9 months and 25 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, unpaid pension benefits, car",
+        "relationship_between_parties": "widow, son, and three daughters",
+        "number_of_persons_involved": 4
+    }
+}

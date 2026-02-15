@@ -1,0 +1,17 @@
+{
+    "content": "this is a legal summary of a court case that took place in salerno in 2010 the case involved a dispute over the distribution of assets and insurance compensation after the death of a person referred to as man the court ruled in favor of the testamentary heirs dividing the insurance policy among them the court stated that 14 of the insurance amount should go to cg 14 to cd 14 to mm and 14 to ml the court also declared that the costs of the proceedings will be shared by all parties involved",
+    "metadata": {
+        "CASE_ID": "2",
+        "civil_codes_used": [
+            "Art. 1920"
+        ],
+        "duration": "6 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "insurance policy",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 4
+    }
+}

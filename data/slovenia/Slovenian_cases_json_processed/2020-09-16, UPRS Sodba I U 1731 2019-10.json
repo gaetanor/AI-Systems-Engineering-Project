@@ -1,0 +1,20 @@
+{
+    "content": "this legal case involves two parties whose names are not mentioned the case is about a legal procedure regarding costs and compensation the procedure started in 2019 and ended on june 16 2020 the final resolution is that the appellant who is the sole heir of the deceased has to pay an inheritance tax of 27264289 eur the constitutional court dismissed the appellants action the courts decision is based on previous judgments and the interpretation of tax legislation the court used specific articles from the inheritance act and the inheritance gift tax act to make their decision the appellant disagreed with the classification of the inheritance order and the amount of tax assessed the court upheld the tax authorities decision determining that the appellant falls within the third order of inheritance and should be subject to the higher tax rate the court rejected the appellants arguments and dismissed the action the court considered the constitutionality of the decision and concluded that it was correct the court ordered the party to bear the costs of the case",
+    "metadata": {
+        "CASE_ID": "UPRS Sodba I U 1731/2019-10",
+        "civil_codes_used": [
+            "Art. 8",
+            "Art. 18"
+        ],
+        "cost": "Not specified",
+        "duration": "1 year",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "Immovable and movable property",
+        "disputed_issues": "classification of inheritance order and amount of tax assessed",
+        "relationship_between_parties": "The appellant is the sole heir to the deceased (little cousin)",
+        "number_of_persons_involved": 2
+    }
+}

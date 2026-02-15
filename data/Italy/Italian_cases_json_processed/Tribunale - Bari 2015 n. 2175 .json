@@ -1,0 +1,21 @@
+{
+    "content": "this legal text summarizes a court case that took place in bari on may 12 2015 the case number is 2175 but the text does not provide any information about the parties involved the case involved a cause that lasted for 13 years from 2002 to 2015 the court made a final ruling on a counterclaim brought by ccmcg which resulted in the dissolution of a joint inheritance between cg and m certain properties were assigned to camt cg and ccm and monetary sums were ordered to be paid by camt and cg to ccm the court also ordered camt to pay the costs of the proceedings the case involved a deceased persons estate with the plaintiff claiming rights to certain properties the defendants argued that a subsequent will revoked the earlier one and that the division of the estate was unfair after hearings and witness testimonies a partial judgment rejected the plaintiffs claim and upheld the defendants counterclaims the court ordered the division of the estate based on an experts report and also ordered the plaintiff to pay the costs of the proceedings the text mentions the registration tax which should be borne by the parties involved the courts final ruling on the counterclaim was made on may 5 2015 in bari",
+    "metadata": {
+        "CASE_ID": "2175",
+        "civil_codes_used": [
+            "Art. 183",
+            "Art. 729",
+            "Art. 720"
+        ],
+        "cost": "12'800.00 EUR compensation",
+        "duration": "13 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "heir and de cuius",
+        "number_of_persons_involved": 3
+    }
+}

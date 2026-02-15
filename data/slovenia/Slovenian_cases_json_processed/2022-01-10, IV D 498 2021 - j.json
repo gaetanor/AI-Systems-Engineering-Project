@@ -1,0 +1,18 @@
+{
+    "content": "this legal document is from the district court in ljubljana slovenia regarding a case with reference number iv 4982021 the court fees for this case amounted to 4556 eur which were divided equally among three heirs the procedure started on january 25 2021 and concluded on january 10 2022 lasting a total of 11 months and 20 days the final resolution of the case involves the division of goods worth 90000 eur among the three heirs who are the deceased daughter another deceased daughter and the deceased grandson the court applied article 11 of the inheritance act in making this decision the document also explains the process of lodging an appeal which must be done within 15 days of receiving the written decision the appeal must be comprehensible and include all necessary information and a court fee must be paid unless there are grounds for exemption or deferment the appeal will be considered lodged on time if sent by registered post on the last day of the appeal period the document is dated january 10 2022 in ljubljana",
+    "metadata": {
+        "CASE_ID": "Okrajno sodi\u0161\u010de v Ljubljani IV D 498/2021 z dne 10. 1. 2022",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "45,56 EUR court fees with goods worth 90000 EUR",
+        "duration": "11 months, 20 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, unpaid pension benefits",
+        "relationship_between_parties": "heir and de cuius",
+        "number_of_persons_involved": 3
+    }
+}

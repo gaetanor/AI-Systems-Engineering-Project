@@ -1,0 +1,21 @@
+{
+    "content": "this legal text summarizes a court case that took place in nocera inferiore in 2008 the text does not provide details about the parties involved or the case itself it explains that there are costs involved in a legal case including court costs consultancy fees legal fees and statutory accessories the total amount of these costs is specified the court has made a decision in a case involving two parties referred to as sf and bm the court has upheld the main claim and dissolved a community property located in nocera superiore bm has been ordered to pay a cash balance to sf and sf has been ordered to repay a sum to bm with interest the defendants have also been ordered to pay the costs of the proceedings the court has rejected the defendants counterclaim and ordered an experts report the court has determined the division of the property between the parties and ordered the payment of compensatory interest the court has ruled that the costs of the proceedings should be borne by the defendants the final ruling was made in 2010",
+    "metadata": {
+        "CASE_ID": "763",
+        "civil_codes_used": [
+            "Art. 718",
+            "Art. 729",
+            "Art. 1100",
+            "Art. 1111",
+            "Art. 1114",
+            "Art. 1115",
+            "Art. 1116"
+        ],
+        "cost": "210.00 EUR fees",
+        "duration": "9 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "number_of_persons_involved": 2
+    }
+}

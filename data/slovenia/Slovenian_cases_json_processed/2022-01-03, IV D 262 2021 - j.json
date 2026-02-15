@@ -1,0 +1,18 @@
+{
+    "content": "this text summarizes a legal case involving the division of an inheritance the court made a decision on january 3 2022 stating that the deceased persons son and daughter will each receive a 50 share of the estate which includes real estate funds in a bank account and unpaid pension benefits the court fee for the case is 45 eur to be paid by the heirs the procedure started on january 15 2021 and ended on january 3 2022 lasting for a total of 11 months and 20 days the text also explains the process of filing an appeal where the appellant has 15 days to lodge an appeal with the appropriate court the appeal must include specific information and grounds for the appeal and a court fee must be paid if the fee is not paid within the specified time limit the appeal may be withdrawn",
+    "metadata": {
+        "CASE_ID": "IV D 262/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "45,00 EUR court fees",
+        "duration": "11 months, 20 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, funds on personal bank account, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

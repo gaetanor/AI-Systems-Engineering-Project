@@ -1,0 +1,16 @@
+{
+    "content": "this is a legal summary of a court case that took place in arezzo in 2015 the case involved a dispute over the division of an estate between two parties referred to as ca lu and ca eu the court made a final decision and assigned specific properties to each party the total value of the assigned properties was determined and ca eu was ordered to pay a specific amount to ca lu the court divided the expenses and costs between the parties and rejected any additional claims the courts decision was made on february 24 2015",
+    "metadata": {
+        "CASE_ID": "No. 445",
+        "civil_codes_used": [
+            "Art. 718",
+            "Art. 720"
+        ],
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

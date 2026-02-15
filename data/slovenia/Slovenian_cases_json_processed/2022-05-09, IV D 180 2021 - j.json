@@ -1,0 +1,18 @@
+{
+    "content": "the district court in ljubljana made a decision in a legal case involving the division of assets worth 43000 euros the heirs in the case are the widow and daughter of the deceased the widow is entitled to receive unpaid pension benefits and a onethird share of a real estate property while the daughter is entitled to receive funds in a personal bank account the court based its decision on the inheritance act the court fee for the case was 540 euros and the costs were borne by heir 1 the procedure lasted for 1 year 4 months and 26 days the court held a probate hearing and established the extent of the estate the registration of immovable property has been finalized but the remaining assets need to be registered and a final decision on the division of the inheritance must be obtained the net value of the estate is estimated to be 43000 euros the text also explains the process of filing an appeal in a legal case including the time limit requirements and consequences of not meeting those requirements",
+    "metadata": {
+        "CASE_ID": "IV D 180/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "540 EUR fees",
+        "duration": "1 year 4 months and 26 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, funds on personal account, unpaid pension benefits",
+        "relationship_between_parties": "widow and daughter",
+        "number_of_persons_involved": 2
+    }
+}

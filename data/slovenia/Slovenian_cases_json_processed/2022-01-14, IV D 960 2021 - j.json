@@ -1,0 +1,20 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana the decision identified as iv 9602021 explains the cost procedure and mentions a total cost of 81000 eur including the court fee the procedure lasted for 11 months and 13 days starting from february 17 2021 and ending on january 14 2022 the case involved dividing the deceased persons assets among three heirs with a total value of 16651553 eur the division of assets was adjusted based on an agreement between the parties the court made the decision based on the inheritance act and the agreement the court determined that the deceased persons son daughter and another son are the intestate heirs and will inherit onethird of the estate each an inheritance agreement was reached among the heirs specifying the distribution of the assets the court fee of 81000 eur must be paid by the heirs the text also provides instructions for lodging an appeal including the time limit required documents and payment of the court fee the text is dated january 14 2022 and relates to a legal matter in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 960/2021",
+        "civil_codes_used": [
+            "Art. 10",
+            "Art. 11"
+        ],
+        "cost": "810,00 EUR court fees",
+        "duration": "11 months and 13 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, company shares",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "intestate heirs",
+        "number_of_persons_involved": 3
+    }
+}

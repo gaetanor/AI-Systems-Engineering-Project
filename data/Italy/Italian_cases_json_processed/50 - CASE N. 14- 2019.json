@@ -1,0 +1,17 @@
+{
+    "content": "this legal text describes a court ruling in italy regarding a dispute between two parties over the division of their shared property the court has decided to dissolve the shared property and has allocated specific buildings and lands to each party based on their respective shares one party has been ordered to compensate the other for the loss of enjoyment of the property the court has also deemed certain requests for the cancellation of mortgage registrations as not acceptable additionally the court has determined the allocation of costs between the parties the text concludes with the mention of the date and location of the filing",
+    "metadata": {
+        "CASE_ID": "Tribunale Rieti, 11/01/2019, n.14",
+        "civil_codes_used": [
+            "Art. 727",
+            "Art. 729",
+            "Art. 820",
+            "Art. 1113"
+        ],
+        "cost": "shared",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+	"financial_support" : "5,850.96 EUR compensation"
+    }
+}

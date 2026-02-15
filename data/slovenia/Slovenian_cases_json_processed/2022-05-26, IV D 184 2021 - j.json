@@ -1,0 +1,14 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved an inheritance dispute among several heirs the court fees amounted to 1152 euros which were divided equally among three heirs the legal proceedings lasted for one year four months and thirteen days the final resolution of the case involved dividing assets worth 350000 eur among five heirs each granddaughter received a third of a building the grandson also received a third of the building and one daughter received furnishings artwork unpaid pension benefits and funds from personal accounts the other daughter received a sum of 40000 eur while the remaining heirs each paid 1333333 eur the court decision was based on the principles of data law the text also explains that the deceased made a declaration in the district court regarding the distribution of their property which included an apartment and valuable paintings the authenticity and validity of the declaration were recognized and an agreement was reached among the heirs the value of the estate was determined to be 350000 eur and the heirs were responsible for paying the court fees the necessary procedures to obtain the final validity certificate were to be completed by the heirs an appeal was deemed inadmissible and the court order became final",
+    "metadata": {
+        "CASE_ID": "IV D 184/2021",
+        "cost": "1.152,00 EUR court fees with 35'000.00 EUR inheritance value",
+        "duration": "1 year, 4 months and 13 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate, bank accounts, unpaid pension benefits",
+        "number_of_persons_involved": 5
+    }
+}

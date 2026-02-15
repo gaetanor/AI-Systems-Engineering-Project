@@ -1,0 +1,21 @@
+{
+    "content": "this legal case took place in the como court and lasted for 5 years the tribunal ruled in favor of one party and ordered the dissolution of a community inheritance they also ordered the auction sale of a property with a base price of 100000 another application for the dissolution of a community inheritance was declared inadmissible the court appointed a technical expert to assess the properties involved and determined that one property could be divided while the other two properties could not the court also found that one of the properties had been built without proper permits the court ordered the dissolution of the community for the divisible property and the sale of the property through auction the sale price was set at 100000 the court declared the application for division of the other two properties inadmissible and ordered their cancellation from the land register the costs of the technical experts report and the legal proceedings would be shared equally among the parties the tribunal made the final ruling on november 29 2021",
+    "metadata": {
+        "CASE_ID": "n.1175",
+        "civil_codes_used": [
+            "Art. 713",
+            "Art. 1111",
+            "Art. 1418"
+        ],
+        "cost": "100'000.00 EUR inheritance value",
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "co-owners",
+        "number_of_persons_involved": 5
+    }
+}

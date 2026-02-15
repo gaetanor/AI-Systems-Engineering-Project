@@ -1,0 +1,19 @@
+{
+    "content": "this legal text provides an overview of the progress of a legal case without mentioning the names of the parties involved the case involves a sum of 116713 euros and spans a period of 60 days from february 16 2016 to may 16 2016 the parties reached a settlement agreement through mediation discussing and agreeing upon the division of an inheritance the agreement includes specific conditions for each party involved and mentions the coownership of certain properties the document explains the progress of a cause related to the dissolution of a community of heirs the mediation process took place between mr f mrs p mrs v mrs l avv g mrs f and avv claudia the parties reached a conciliation agreement during the mediation meeting on may 16 2016 they agreed to assign certain properties to each other and expressed satisfaction with the division they also agreed to sign a public deed to formalize the division within a specified timeframe",
+    "metadata": {
+        "CASE_ID": "88/2016",
+        "civil_codes_used": [
+            "Art. 1111"
+        ],
+        "cost": "1'167,13 euro compensation",
+        "duration": "60 days",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "properties",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "co-owners",
+        "number_of_persons_involved": 10
+    }
+}

@@ -1,0 +1,19 @@
+{
+    "content": "this legal text provides a summary of a case that has been ongoing for seven years the parties involved have reached an agreement on the principle compensation amount of 8000 euros the judicial division has allocated new assets in favor of the actor who will receive onethird of the assets including their share for their sons the civil code explains how the portions or shares of coheirs are regulated but this can be changed if all parties agree the case was brought before the italian republic court in 2014 regarding the renunciation of an inheritance the court explained that the renunciation can be challenged if it harms creditors and certain conditions are met the court found the petitioners claim valid and made the renunciation unenforceable the court also addressed the division of a specific property and granted the petitioners request for a declaratory ruling the costs of the litigation will be fully compensated the tribunal has declared the waiver of inheritance valid and authorized the acceptance of the inheritance by the heirs the decision was made on september 11 2014 by judge dr name omitted",
+    "metadata": {
+        "CASE_ID": "12110/2014",
+        "civil_codes_used": [
+            "Art. 727"
+        ],
+        "cost": "8'000,00 euro fees",
+        "duration": "7 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "assets",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "parent-child",
+        "number_of_persons_involved": 4
+    }
+}

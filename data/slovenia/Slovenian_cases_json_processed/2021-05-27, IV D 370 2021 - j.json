@@ -1,0 +1,23 @@
+{
+    "content": "this legal text summarizes the progress of a legal case decided by the district court in ljubljana the case involved the distribution of assets and funds among five heirs the total value of the goods was 97000 eur including an unpaid pension benefit and funds in a personal bank account a car was sold for 3050 eur the distribution of the goods was determined based on the heirs shares with the brother of the deceased receiving the unpaid pension funds from the car sale the two sisters and two nephews of the deceased also received their respective shares the court decision was made in accordance with the inheritance act and the civil procedure act the parties involved in the case reached an agreement and the court received a death certificate for the deceased the deceased had no living parents but had siblings and a deceased spouse the court proceeded with succession proceedings and the heirs agreed to a succession agreement the appeal process was also explained including the time limit for lodging an appeal the required documents and the payment of court fees the text is dated may 27 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 370/2021",
+        "civil_codes_used": [
+            "Art. 8",
+            "Art. 10",
+            "Art. 14",
+            "Art. 15",
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "684,00 EUR fees and 97'000.00 inheritance value",
+        "duration": "4 months and 8 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "unpaid pension benefits, funds on personal bank account, deposit, real estate, purchase money from the sale of the car",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 5
+    }
+}

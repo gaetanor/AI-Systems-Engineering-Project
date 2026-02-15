@@ -1,0 +1,32 @@
+{
+    "content": "in this legal case the viru county court settled a claim regarding joint ownership of an apartment property the court decided to terminate the joint ownership and sell the property through a public auction the money received from the sale will be divided among the coowners based on their shares the court also ordered the parties to pay the procedural costs the plaintiff filed a lawsuit to terminate the coownership and provided evidence of expenses incurred the defendant did not respond to communication attempts the court reviewed the evidence and found the plaintiffs claims to be valid the court ruled to terminate the coownership and sell the property through a public auction the court also determined that both parties should bear the costs of the proceedings",
+    "metadata": {
+        "CASE_ID": "2-22-2489",
+        "civil_codes_used": [
+            "Art. 75",
+            "Art. 65",
+            "Art. 137",
+            "Art. 5",
+            "Art. 230",
+            "Art. 76",
+            "Art. 77",
+            "Art. 39",
+            "Art. 130",
+            "Art. 147",
+            "Art. 152"
+        ],
+        "cost": "Unspecified procedural costs to be paid by each party on their own",
+        "duration": "1 year, 1 month",
+        "law": "Inheritance",
+        "state": "ESTONIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "co-owners",
+        "number_of_persons_involved": 2,
+        "testamentary_clauses": [
+            "legacies"
+        ]
+    }
+}

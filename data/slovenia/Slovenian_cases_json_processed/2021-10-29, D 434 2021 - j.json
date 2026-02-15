@@ -1,0 +1,19 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved the distribution of various goods and assets among three heirs the total value of the goods is 45700000 eur and includes funds in a personal bank account subfund units shares in a company a property insurance policy and real estate properties in slovenia and croatia the widower of the deceased is the testamentary heir and will receive certain items while the rest of the goods will be divided between the widower and the deceaseds two sons the court made the decision based on specific articles of the inheritance act and an agreement between the parties involved the court also determined that the slovenian court had jurisdiction over the entire succession of the deceased who had habitual residence in slovenia the court recognized the deceaseds valid will and carried out the probate accordingly the heirs accepted their respective shares of the inheritance and concluded an inheritance agreement the court also provided instructions for lodging an appeal including the deadline required documents and payment of a court fee",
+    "metadata": {
+        "CASE_ID": "IV D 434/2021",
+        "civil_codes_used": [
+            "Art. 8",
+            "Art. 11"
+        ],
+        "cost": "1.332,00 EUR court fees with inheritance value of 457'000.00 EUR",
+        "duration": "9 months and 7 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "funds on personal bank account, sub-fund units, shares of a company, property under the insurance policy, real estate",
+        "relationship_between_parties": "widower of the deceased",
+        "number_of_persons_involved": 3
+    }
+}

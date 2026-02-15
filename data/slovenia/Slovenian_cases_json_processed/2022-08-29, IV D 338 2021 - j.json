@@ -1,0 +1,18 @@
+{
+    "content": "this is a summary of a legal case regarding the distribution of assets and goods the court made a decision in ljubljana slovenia on august 29 2022 the case lasted for 1 year 7 months and 12 days the total value of the goods is 24000 euros including funds in bank accounts unpaid pension benefits and an insurance sum there is also a real estate property involved the assets are being divided between two heirs with one heir renouncing their share and the other inheriting the entire estate the court determined the value of the estate and assessed a court fee the decision became final on august 29 2022",
+    "metadata": {
+        "CASE_ID": "IV D 338/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "378,00 EUR fees",
+        "duration": "1 year, 7 months and 12 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on the bank account, unpaid pension benefits, insurance, real estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}

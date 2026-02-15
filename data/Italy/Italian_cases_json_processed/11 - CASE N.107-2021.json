@@ -1,0 +1,25 @@
+{
+    "content": "this legal text provides a summary of the progress of a legal case without mentioning the names of the parties involved the summary begins with the filing of a complaint by one party against another followed by the defendant filing an answer both parties then engage in the discovery process exchanging documents and conducting depositions if a settlement is not reached the case proceeds to trial where both parties present their arguments and evidence after the trial the court issues a judgment determining the outcome of the case either party has the option to file an appeal which would be reviewed by a higher court the text then provides a specific case example where the court grants the plaintiffs application for the dissolution of a legal community and assigns coownership shares the court also orders the plaintiffs to pay a settlement amount to the defendant and rejects any other claims made in the case the text mentions various legal articles and codes in italy as well as the court and representatives involved in the case the summary concludes with the final decision made by the tribunal including the dissolution of the legal community assignment of coownership shares payment of the settlement amount rejection of other claims and the allocation of costs the decision was made on january 9 2021 by judge dr omissis",
+    "metadata": {
+        "CASE_ID": "N\u00b0 (omissis)",
+        "civil_codes_used": [
+            "Art. 111",
+            "Art. 1200",
+            "Art. 2817",
+            "Art. 2825",
+            "Art. 50 bis",
+            "Art. 788",
+            "Art. 1113",
+            "Art. 1116"
+        ],
+        "cost": "47,333.00 EUR",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "nature_of_separation": "Judicial",
+        "presence_of_children": true,
+        "marital_regime": "community of property",
+        "financial_support": "1'500 EUR",
+        "duration_of_marriage": "5 years"
+    }
+}

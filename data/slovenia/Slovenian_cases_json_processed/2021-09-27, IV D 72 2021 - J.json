@@ -1,0 +1,18 @@
+{
+    "content": "this is a legal document from the district court in ljubljana slovenia explaining the progress of a legal case regarding costs the case lasted for 9 months and 23 days from january 6 2021 to october 29 2021 the specific details about the parties involved and the amount of costs are not mentioned the final resolution states that the total value of the goods is negative with unpaid pension benefits and a motorbike involved the goods will be divided between two heirs with adjustments made based on the relationship to the deceased the widow has waived her share so the first heir will receive the entire share and the second heir who is the daughter will also receive the entire share the case involves the application of the inheritance act specifically article 11 the deceased person had a son and was a citizen of slovenia the text also provides instructions for lodging an appeal including the time limit submission to the court and requirements for clarity and payment of fees the text is dated february 27 2020 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 72/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "no court tax",
+        "duration": "9 months, 23 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "unpaid pension benefits, valuer, motor bike",
+        "relationship_between_parties": "widow and daughter",
+        "number_of_persons_involved": 2
+    }
+}

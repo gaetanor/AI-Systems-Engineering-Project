@@ -1,0 +1,20 @@
+{
+    "content": "this is a summary of a legal text regarding a court decision made by the district court in ljubljana the court case involved the division of assets of a deceased person including a building funds in a bank account and unpaid pension benefits the deceased persons sister and nephew were identified as the heirs and will each receive half of the assets the total value of the assets is 130000 euros the court determined the extent of the estate and registered the property in the land register the court fee for the case is 783 euros to be paid by the heirs the procedure lasted for 11 months and 18 days starting on january 20 2021 and ending on january 6 2022 the court decision was final and the representative of the heirs waived the right to appeal",
+    "metadata": {
+        "CASE_ID": "IV D 371/2021",
+        "civil_codes_used": [
+            "Art. 14",
+            "Art. 15"
+        ],
+        "cost": "783,00 EUR court fees",
+        "duration": "11 months and 18 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estates, bank accounts, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "sister and nephew",
+        "number_of_persons_involved": 2
+    }
+}

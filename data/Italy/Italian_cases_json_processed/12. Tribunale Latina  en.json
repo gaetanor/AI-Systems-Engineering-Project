@@ -1,0 +1,22 @@
+{
+    "content": "this legal text provides an overview of a case without revealing the names of the parties involved the case lasted for 5 years and involved a dispute over expenses related to properties in the parents estate the court determined that certain expenses should be divided among the parties based on their ownership and usage of the properties the court also considered claims and counterclaims and determined the amounts owed by each party the final judgment states that one party must pay the other a certain amount along with interest the court also divided the costs of the proceedings between the parties with each party being ordered to pay half of the costs",
+    "metadata": {
+        "CASE_ID": "1812/2023",
+        "civil_codes_used": [
+            "Art. 556",
+            "Art. 747",
+            "Art. 748",
+            "Art. 726"
+        ],
+        "cost": "272.50 EUR fees",
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "properties",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "siblings",
+        "number_of_persons_involved": 3
+    }
+}

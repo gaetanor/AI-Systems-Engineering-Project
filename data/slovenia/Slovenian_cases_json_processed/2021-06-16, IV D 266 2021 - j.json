@@ -1,0 +1,19 @@
+{
+    "content": "this is a summary of a legal text explaining the progress of a cause the text discusses a court decision made by the district court in ljubljana regarding an inheritance case the procedure lasted for 5 months and 2 days from january 15 2021 to june 16 2021 the court fee for the case was 270 eur and the heirs are responsible for paying half of the costs the assets involved in the case include a personal bank account unpaid pension benefits a car opel meriva and a gun bayard with a total value of 12700 eur the assets will be divided equally between the deceaseds widow and son who are the heirs the text also explains the process of lodging an appeal in a legal case including the time limit requirements and consequences of not complying with the rules",
+    "metadata": {
+        "CASE_ID": "IV D 266/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 203"
+        ],
+        "cost": "270,00 EUR court fees and asset division 12'700.00 EUR",
+        "duration": "5 months, 2 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on personal bank account, unpaid pension benefits, car Opel Meriva, gun Bayard",
+        "relationship_between_parties": "widow and son",
+        "number_of_persons_involved": 2
+    }
+}

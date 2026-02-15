@@ -1,0 +1,19 @@
+{
+    "content": "this text summarizes a legal case involving the division of assets among three heirs the case was handled by the okrajno sodi\u0161\u010de v ljubljani district court in ljubljana in slovenia the court made a decision on january 6 2022 after a procedure that started on january 13 2021 and lasted until january 6 2022 the court fee of 1008 euros was paid by the data on september 18 2023 an additional decision was made regarding new assets discovered the entire process took a total of 2 years 8 months and 5 days the assets involved in the case include real estate valued at 280000 eur a car a motorbike and unpaid pension benefits these assets will be divided equally among the three heirs with each receiving onethird the specific details of the case including the parties involved are not provided in the text the court determined the heirs based on the inheritance act as the deceased did not leave a will the deceaseds siblings two sisters and a brother are entitled to a onethird share each the court established the heirs and assessed the value of the estate during a probate hearing on january 6 2022 the court fee was deducted from the estate after funeral expenses and since no one appealed the order of succession it became final on january 6 2022",
+    "metadata": {
+        "CASE_ID": "IV D 178/2021",
+        "civil_codes_used": [
+            "Art. 14",
+            "Art. 15"
+        ],
+        "cost": "1.008,00 EUR court fees with real estate valued at 280000 EUR",
+        "duration": "2 years 8 months 5 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3
+    }
+}

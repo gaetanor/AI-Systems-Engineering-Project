@@ -1,0 +1,19 @@
+{
+    "content": "the district court in ljubljana made a decision on july 9 2021 in a legal case involving the division of assets of a deceased person the total cost of the procedure is 1008 euros which is divided equally among three heirs the procedure lasted for 4 months and 25 days the deceased persons assets include goods worth 272000 euros savings accounts a car and half of their real estate the three heirs involved are the deceased persons partner daughter and son who will each receive an equal share of onethird of the assets the court referred to specific articles of inheritance law in making its decision the court also explained the process for lodging an appeal including the time limit and requirements for the appeal to be considered valid",
+    "metadata": {
+        "CASE_ID": "IV D 881/2021",
+        "civil_codes_used": [
+            "11",
+            "4a"
+        ],
+        "cost": "1.008,00 EUR procedural costs and inheritance value of 272'000.00 EUR",
+        "duration": "4 months, 25 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on a savings account, car, real estates",
+        "relationship_between_parties": "partner, daughter, son",
+        "number_of_persons_involved": 3
+    }
+}

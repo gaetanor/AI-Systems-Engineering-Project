@@ -1,0 +1,17 @@
+{
+    "content": "this is a summary of a legal text explaining the progress of a cause the text refers to a decision made by the district court in ljubljana on january 17 2022 the court procedure involved costs of 66600 eur which were split between the heirs involved in the case the procedure lasted for one year and 14 days the final resolution of the case involves dividing the deceased persons assets which include a half share of a real estate property funds in a personal bank account and funds in a savings bank account the assets have a total value of 86400 euros and will be divided equally between the deceased persons two daughters the text discusses a legal case involving the application of the inheritance act specifically article 11 the court determined the deceaseds estate and identified the two daughters as the intestate heirs who will inherit a \u00bd share of the estate unfortunately the rest of the judgment is missing",
+    "metadata": {
+        "CASE_ID": "IV D 63/2021",
+        "civil_codes_used": [
+            "Art. 11"
+        ],
+        "cost": "666,00 EUR court fees",
+        "duration": "1 year and 14 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts",
+        "number_of_persons_involved": 2
+    }
+}

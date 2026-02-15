@@ -1,0 +1,14 @@
+{
+    "content": "this is a summary of a legal text regarding a civil case in estonia the court involved is the viru county court and the judge presiding over the case is not mentioned the decision was made on june 28 2023 the case number is 22016799 and the value of the case is 4223974 euros the parties involved are ab and tt tt ev g and the case revolves around the division of succession assets the plaintiff tt has filed a legal case but the specific details are not mentioned the court partially settles the claim by dividing the property equally among the parties and awards compensation for the loss of property and utility costs the defendant is ordered to give consent for a change in ownership entry in the land register pay compensation for the right to use the property and release possession of the property the court dismisses a claim related to the right to use the property during a certain period the court determines the allocation of procedural costs with the plaintiffs and defendant sharing the costs equally the decision can be appealed within 30 days",
+    "metadata": {
+        "CASE_ID": "2-20-16799",
+        "cost": "4299.65 EUR",
+        "duration": "2 years 7 months",
+        "law": "Inheritance",
+        "state": "ESTONIA",
+        "type": "judicial",
+        "subject_of_succession": "immovable property",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 4
+    }
+}

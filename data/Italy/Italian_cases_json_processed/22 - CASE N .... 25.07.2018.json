@@ -1,0 +1,21 @@
+{
+    "content": "in this court case mrv filed a lawsuit against her brothers lmv and lv claiming that a sale contract in 1985 was actually a disguised donation the court found that the sale was indeed a donation and declared mrv as the necessary heir of her father av the court also dissolved the community property and awarded ownership of the property to lmv lmv was ordered to pay mrv a sum of 4811484 euros as compensation for her rightful share the court dismissed all other claims and ordered lmv to reimburse mrv for the litigation costs av was also ordered to reimburse lmv for the litigation costs the court made these decisions on july 25 2018 in oristano",
+    "metadata": {
+        "CASE_ID": "123456",
+        "civil_codes_used": [
+            "Art. 555",
+            "Art. 713",
+            "Art. 737",
+            "Art. 560",
+            "Art. 563"
+        ],
+        "cost": "7,181.84 euros",
+        "duration": "4 years",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "presence_of_children": false,
+        "marital_regime": "community of property",
+	"financial_support":"48'114.84 EUR compensation"
+    }
+}

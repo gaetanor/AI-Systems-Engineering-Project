@@ -1,0 +1,18 @@
+{
+    "content": "this legal text summarizes a court case that took place in salerno on august 6 2015 the case identified by number 2531 involves parties that are not mentioned the text provides an update on the progress of the case which spanned from 2006 to 2015 the court has made a definitive ruling on the case declaring the succession of a deceased individual named lc the court has determined that lcs three children sa ra and another unnamed individual will share an equal portion of the inheritance certain requests made by the plaintiffs have been deemed inadmissible while the defendants counterclaim regarding the abandonment of hereditary property has been accepted the case will continue in separate proceedings and the final judgment will include the settlement of costs",
+    "metadata": {
+        "CASE_ID": "Court sec. II - Salerno, 08/06/2015, no. 2531",
+        "civil_codes_used": [
+            "Art. 167",
+            "Art. 183",
+            "Art. 809"
+        ],
+        "duration": "9 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "inheritance",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 3
+    }
+}

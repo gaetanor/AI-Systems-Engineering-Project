@@ -1,0 +1,20 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana the case involved the division of assets among four heirs after the death of an individual the total value of the assets was 7249829 eur and included funds from bank accounts unpaid pension benefits a car and a pistol each heir was entitled to inherit 14 of the assets but adjustments were made based on an agreement the widow inherited the funds from the bank accounts and pension benefits while one son inherited the car and pistol the other two sons did not receive any specific assets the court considered the inheritance act and the agreement between the parties in making its decision the court also provided instructions for lodging an appeal including the deadline required documents and payment of fees the date of the court decision was february 27 2020",
+    "metadata": {
+        "CASE_ID": "IV D 925/2019",
+        "civil_codes_used": [
+            "11",
+            "4a"
+        ],
+        "cost": "648,00 EUR legal fees",
+        "duration": "11 months, 8 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on the savings bank account, funds on a personal bank account, unpaid pension benefits, car Ford Focus, pistol Beretta M 34",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "widow, sons",
+        "number_of_persons_involved": 4
+    }
+}

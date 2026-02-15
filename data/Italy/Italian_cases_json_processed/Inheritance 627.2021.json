@@ -1,0 +1,24 @@
+{
+    "content": "this legal text summarizes a court case where the court ruled in favor of the parties involved the court divided the property equally among them considering two different inheritances with their own assets the court also addressed a claim of disguised donation which was found to be valid as a result the court ordered the payment of certain sums of money by the parties involved the court discussed the division of assets and the calculation of shares it concluded that the claims of usucapation and simulation should be granted while the claim of reduction due to loss of legitimacy should be rejected the court also addressed the costs of the proceedings and ordered the payment of a unified contribution to the treasury in summary the court of first instance made various declarations and decisions including the acquisition of certain properties through usucaption the recognition of a disguised donation the dissolution of community property and the assignment of equal shares of ownership for different units the court also ordered the payment of specified amounts as settlements and adjustments as well as reimbursement of litigation costs and a contribution to the treasury",
+    "metadata": {
+        "CASE_ID": "627",
+        "civil_codes_used": [
+            "Art. 747",
+            "Art. 750",
+            "Art. 751",
+            "Art. 734",
+            "Art. 733",
+            "Art. 726"
+        ],
+        "cost": "1'604,03 EUR for court fees and 10'693,50 EUR for professional fees",
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "spouse and children",
+        "number_of_persons_involved": 5
+    }
+}

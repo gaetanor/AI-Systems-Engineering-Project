@@ -1,0 +1,22 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana on september 7 2022 the text explains the cost procedure stating that the court fee is 21600 eur and is divided among three heirs based on their share in the inheritance the duration of the procedure was 1 year 7 months and 19 days the final resolution involves the distribution of goods and funds with the total value of the goods being 8000 eur and unpaid pension benefits amounting to 18749 eur the division of assets is based on the law of heirs and an adjustment agreement the deceased persons sister nephew brother and other relatives are identified as heirs and their respective shares are determined the text also mentions the use of specific laws an agreement between the parties and the courts determination of the estate and heirs the heirs accepted the inheritance and resolved outstanding issues through an outofcourt agreement the estate includes various properties and assets the widowers niece claimed funeral expenses which the heirs are responsible for paying after deducting the funeral expenses the net value of the estate is 8000 eur the text also provides instructions for lodging an appeal including the time limit submission requirements and payment of court fees the text is dated september 7 2022 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 372/2021",
+        "civil_codes_used": [
+            "Art. 10",
+            "Art. 11",
+            "Art. 14",
+            "Art. 15"
+        ],
+        "cost": "216,00 EUR court fees with 8000.00 EUR inheritance value and unpaid pension of 1879.00 EUR",
+        "duration": "1 year, 7 months and 19 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "funds on a silver bank account, unpaid pension benefits",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "sister, nephew, brother, and other relatives",
+        "number_of_persons_involved": 8
+    }
+}

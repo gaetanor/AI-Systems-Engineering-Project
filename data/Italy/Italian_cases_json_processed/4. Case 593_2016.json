@@ -1,0 +1,19 @@
+{
+    "content": "this legal text is about a case where one party owes 43018 euros to another party the case lasted for almost 9 months and involved a mediation process the parties involved reached a settlement agreement and agreed to divide the inheritance the mediation process started on october 12 2015 and involved multiple parties there were several adjournments and postponements but on july 11 2016 a conciliation agreement was reached the parties were satisfied with the outcome and the mediation costs were divided among them the case was officially closed on july 11 2016",
+    "metadata": {
+        "CASE_ID": "593/2015",
+        "civil_codes_used": [
+            "Art. 1111",
+            "Art. 720"
+        ],
+        "cost": "43'018.00 EUR compensation",
+        "duration": "9 months",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "inheritance",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 7
+    }
+}

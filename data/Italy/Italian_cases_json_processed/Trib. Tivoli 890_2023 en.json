@@ -1,0 +1,20 @@
+{
+    "content": "this legal text describes a court case that took place in tivoli on 03072023 the court ruled in favor of the plaintiff and ordered the defendant to pay 50 of the costs of the proceedings the defendant was also ordered to pay the plaintiff a total amount of euro 700000 along with legal costs the case involved the dissolution of a community property located in castelnuovo di porto the property will be divided with one party being awarded ownership and the other party receiving compensation the court determined that 50 of the overall costs of the proceedings will be recoverable with the remaining 50 to be paid by the defendant the judgment was made on july 2 2023",
+    "metadata": {
+        "CASE_ID": "890",
+        "civil_codes_used": [
+            "Art. 1114",
+            "Art. 1116",
+            "Art. 70",
+            "Art. 190"
+        ],
+        "cost": "7,000.00 EUR of compensation and legal costs",
+        "duration": "unspecified",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "nature_of_separation": "Judicial",
+        "marital_regime": "community of property",
+        "duration_of_marriage": "unspecified"
+    }
+}

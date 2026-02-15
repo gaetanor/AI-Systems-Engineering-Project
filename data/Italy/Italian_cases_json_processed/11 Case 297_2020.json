@@ -1,0 +1,19 @@
+{
+    "content": "this legal text provides a summary of the progress of a legal case without mentioning the names of the parties involved the case involved a dispute over 45140 euros and lasted for 37 days from september 7th 2020 to october 16th 2020 the parties reached a mediation agreement regarding the division of the inheritance of a deceased person named ca the agreement stated that the children of the deceased agreed to divide the remaining assets including 6 postal deposits in a fair and amicable manner the mediation process began on october 16 2020 with the appointment of a mediator the parties and their lawyers participated in the mediation process through remote telematic mode during the mediation the parties reached an agreement on the division of the estate and the agreed amounts were specified the parties agreed to settle their respective shares through the post office the costs and fees of the mediation procedure will be shared by the parties the mediation process concluded with the signing of the minutes and the case is now closed",
+    "metadata": {
+        "CASE_ID": "297/2020",
+        "civil_codes_used": [
+            "Art. 1111"
+        ],
+        "cost": "451,40 EUR fees ",
+        "duration": "37 days",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "extrajudicial",
+        "succession_type": "legal",
+        "subject_of_succession": "inheritance",
+        "disputed_issues": "division of assets",
+        "relationship_between_parties": "legal heirs",
+        "number_of_persons_involved": 5
+    }
+}

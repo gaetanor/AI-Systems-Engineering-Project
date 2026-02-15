@@ -1,0 +1,15 @@
+{
+    "content": "this legal text summarizes the progress of a case that has been ongoing for 7 years and 5 months the case involves a party that resulted in a payment of 1300 euros but the specific details and parties involved are not mentioned the judge has divided the assets of a dissolved community between the parties involved with the plaintiff being assigned certain assets and the defendants being assigned other assets a court document has been filed regarding the registration and transfer of ownership of movable property the text explains that the portions or shares of coheirs are determined by article 727 of the civil code which states that they should ideally be divided equally however the parties involved can agree to divide the estate differently if they wish the court case in ascoli piceno is mentioned but no further details are provided the decision in this case was served on february 3 2016 the plaintiffs sued the defendant requesting the establishment of the existence of community property and the appraisal of certain agricultural equipment the defendant refused to cooperate and was declared contumacious the courtappointed expert estimated the value of the assets and the court granted the application for division the court found that the defendant owned twothirds of the property and dismissed the plaintiffs claim for damages the costs of the case were imposed on the plaintiff with the defendant ordered to reimburse half of these costs the courts decision was made on july 3 2023 and filed on july 4 2023",
+    "metadata": {
+        "CASE_ID": "421/2023 Ascoli Piceno",
+        "civil_codes_used": [
+            "Art. 727"
+        ],
+        "cost": "1'300 EUR",
+        "duration": "7 years and 5 months",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "disputed_issues": "division of assets"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "content": "this legal text describes the progress of a case involving the inheritance of a deceased individual the court ruled that the succession is open for two individuals who were born and deceased in a certain location the court also dissolved a shared piece of land and ordered its division with one party receiving a 29 share and the other party being compensated with a payment of \u20ac337705 the court based its decision on specific articles of the civil code and the civil procedure code the ruling also addressed the issue of unauthorized construction on one of the parcels of land and determined that it should not be divided due to its indivisibility the costs of the case will be borne by the estate and offset by the parties involved the ruling was made on january 4 2023 and filed in the clerks office on the same day",
+    "metadata": {
+        "CASE_ID": "Tribunale Agrigento sez. I, 04/01/2023, n.1",
+        "civil_codes_used": [
+            "Art. 581",
+            "Art. 713",
+            "Art. 720"
+        ],
+        "duration": "5 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "shared piece of land",
+        "disputed_issues": "division of assets"
+    }
+}

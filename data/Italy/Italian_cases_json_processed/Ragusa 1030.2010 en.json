@@ -1,0 +1,16 @@
+{
+    "content": "this legal text summarizes a court case that took place in ragusa on june 12 2010 the case number is 1030 but it does not provide any information about the parties involved or the details of the case the plaintiffs costs have been settled and a judgment has been made for a sum of eur 220000 the court has made a decision in a case where the defendants were not present the court has accepted a request to notify the parties involved and has ordered the division of a property among the plaintiff and defendants the proceeds from the sale of the property will be split equally between the parties the court has also ordered that the costs of the case be paid by the estate with the plaintiff being responsible for a total amount of \u20ac220000 additionally the defendants will be jointly and severally responsible for paying the expenses of an experts report the judgment summons was served on june 6 2007 and subsequent summons were served on may 12 2007 the plaintiff sued multiple defendants claiming their right to inherit a property after the death of their mother the courtappointed expert concluded that the property should be divided into two shares and sold the plaintiffs request for division and sale of the property was granted the costs of the proceedings will be borne by the defendants with the plaintiffs share being paid by the treasury due to their legal aid the decision was made on july 20 2010 and filed with the registry on december 6 2010",
+    "metadata": {
+        "CASE_ID": "1030",
+        "civil_codes_used": [
+            "Art. 720"
+        ],
+        "cost": "EUR 2,200.00 EUR compensation",
+        "duration": "3 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 6
+    }
+}

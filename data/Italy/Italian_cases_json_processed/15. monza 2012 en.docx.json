@@ -1,0 +1,13 @@
+{
+    "content": "this legal text is a summary of a case that took place over a period of two years the case involves a party who owes 1175 euros to someone else the court of monza has made a final decision regarding the case the court has dissolved the community ownership of a property and declared that it can be divided conveniently one party has been assigned full ownership of the property another party has the right to receive a sum of eur 16076637 from the owner of the property this payment is based on a contract and can be deferred for five years the court has considered the division of assets and the potential harm it may cause to the parties involved the court has also appointed an expert to determine the market value of the property and has ordered the defendant to pay half of the expenses the court has rejected the remaining claims made by both parties the judgment is enforceable",
+    "metadata": {
+        "CASE_ID": "2715/2012",
+        "cost": "1175 EUR each party",
+        "duration": "2 years",
+        "law": "Divorce",
+        "state": "ITALY",
+        "type": "judicial",
+        "marital_regime": "community of property",
+        "financial_support": "EUR 160,766.37"
+    }
+}

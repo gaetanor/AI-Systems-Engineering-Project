@@ -1,0 +1,28 @@
+{
+    "content": "this legal document summarizes the progress of a court case that lasted for 7 years the court has made a final ruling declaring the open testamentary succession of a deceased person and determining the rightful share of the injured party they also declare the open legitimate succession of another deceased person and reduce the testamentary provisions in favor of the injured party the court orders the reinstatement of the injured partys share in monetary terms the application for the dissolution of the community inheritance property is declared inadmissible and a claim for restitution of fruits is dismissed the court offsets the court costs and orders the defendants to pay the remaining amount to the heir the legal principles applied in the decision come from the civil code and the civil procedure code the court discusses preliminary points raised by the parties and the valuation of the estate by an expert witness they determine the rightful share of the injured party and reject the demand for accounting the court compensates the costs of the litigation and concludes its decision on may 10 2021",
+    "metadata": {
+        "civil_codes_used": [
+            "Art. 540",
+            "Art. 558",
+            "Art. 560",
+            "Art. 588",
+            "Art. 720",
+            "Art. 734",
+            "Art. 747",
+            "Art. 750",
+            "Art. 751",
+            "Art. 564",
+            "Art. 92",
+            "Art. 210"
+        ],
+        "cost": "308.862,96 EUR inheritance value",
+        "duration": "7 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "properties",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 1
+    }
+}

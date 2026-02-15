@@ -1,0 +1,12 @@
+{
+    "content": "this legal text summarizes a court case that took place in arezzo on december 15 2015 the case number is 1424 but the parties involved are not mentioned the summary explains the progress of the case starting with the filing of a complaint by one party against another the defendant then filed an answer addressing the allegations both parties engaged in the discovery process exchanging documents and conducting depositions they also participated in a settlement conference to try and reach an agreement if no settlement was reached the case proceeded to trial where both parties presented their arguments and evidence witnesses testified and expert opinions were provided after the trial the court issued a judgment determining the outcome and any relief granted either party had the option to file an appeal which would be reviewed by a higher court the text does not provide information on the outcome of the appeal or any further steps in the case however it does mention a final ruling by the court of arezzo in a case involving the heirs of a person named ch fe the court ordered the transfer of ownership rights of certain real estate properties to ch ca ch st along with reimbursement of costs and fees the courts decision was made based on article 281 of the code of civil procedure the court found the claim wellfounded considering witness testimony and documents produced by the plaintiff the defendants were found to have continuously used the land and inherited the property resulting in the court ordering the registration of ownership rights in favor of the heirs the costs of the proceedings will be shared between the parties",
+    "metadata": {
+        "CASE_ID": "1424",
+        "cost": "318.70 EUR fees cost",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "subject_of_succession": "real estate properties",
+        "number_of_persons_involved": 3
+    }
+}

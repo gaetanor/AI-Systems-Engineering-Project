@@ -1,0 +1,19 @@
+{
+    "content": "this legal text summarizes the progress of a legal case regarding an inheritance the district court in ljubljana made a decision on february 24 2022 with reference number iv 4422021 the court fee was 68456 eur and the procedure lasted from january 22 2021 to february 24 2022 for a total of 1 year 1 month and 3 days the final resolution involves dividing the deceased persons assets valued at 9268600 eur among three heirs according to the law each heir is entitled to 13 of the assets but an agreement was reached to make adjustments the widow will receive 13 of the real estate and unpaid pension benefits one daughter will receive 13 of the real estate and a car and the other daughter has waived her share to the widow the specific laws mentioned are the inheritance act and the civil procedure act the court received a death certificate for the deceased who was married and had two daughters since there was no will the estate will be inherited equally by the children and spouse the court sent summons to the parties involved but an inheritance agreement was submitted and the heirs accepted the inheritance the court declared the intestate heirs as owners of onethird of the estate instructions for appealing the decision are provided including the deadline submission to the court required documents and payment of a court fee these instructions were issued on february 24 2022 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 442/2021",
+        "civil_codes_used": [
+            "Art. 11",
+            "Art. 163",
+            "Art. 279"
+        ],
+        "cost": "684,56 EUR fees",
+        "duration": "1 year, 1 month and 3 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "legal",
+        "subject_of_succession": "real estate, bank accounts, car",
+        "number_of_persons_involved": 3
+    }
+}

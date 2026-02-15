@@ -1,0 +1,21 @@
+{
+    "content": "this legal text summarizes a court decision made by the district court in ljubljana on december 6 2021 the case involves the distribution of various assets including real estate funds in a personal bank account and unpaid pension benefits there are two heirs involved a son and a daughter the son is entitled to 34 of the assets based on a testamentary agreement specifically the real estate while the daughter is entitled to 14 of the assets and has a partial right to use the real estate the total value of the goods is 76000 eur the court decision is based on certain articles from the inheritance act the parties involved have reached an agreement on the distribution of the properties including a holiday home the court fees for the proceedings will be paid by one of the heirs the text also provides instructions for lodging an appeal including the time limit required documents and payment of court fees the text is dated december 6 2021 in ljubljana",
+    "metadata": {
+        "CASE_ID": "IV D 276/2021",
+        "civil_codes_used": [
+            "Art. 7",
+            "Art. 10",
+            "Art. 11",
+            "Art. 26"
+        ],
+        "cost": "648,00 EUR court fees",
+        "duration": "10 months and 22 days",
+        "law": "Inheritance",
+        "state": "SLOVENIA",
+        "type": "judicial",
+        "succession_type": "testamentary",
+        "subject_of_succession": "real estate, bank accounts, unpaid pension benefits",
+        "relationship_between_parties": "son and daughter",
+        "number_of_persons_involved": 2
+    }
+}

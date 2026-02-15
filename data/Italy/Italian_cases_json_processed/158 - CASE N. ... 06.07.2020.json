@@ -1,0 +1,20 @@
+{
+    "content": "this legal text summarizes a civil case involving the division of assets between two parties the court has determined the inheritance to be divided between the parties and has ordered the dissolution of the community formed by the assets the court also ordered the sale of the properties involved with the proceeds to be distributed equally among the parties the text mentions the legal principles applied in the case including the italian constitution the civil code and the civil procedure code it also discusses preliminary matters objections raised by the parties and the valuation of the assets the court rejected certain claims and determined that both parties would bear the costs of the litigation the final ruling was made on july 6 2020",
+    "metadata": {
+        "civil_codes_used": [
+            "Art. 566",
+            "Art. 720",
+            "Art. 729",
+            "Art. 1114",
+            "Art. 1116",
+            "Art. 96",
+            "Art. 791"
+        ],
+        "duration": "2 years",
+        "law": "Inheritance",
+        "state": "ITALY",
+        "type": "judicial",
+        "disputed_issues": "division of assets",
+        "number_of_persons_involved": 2
+    }
+}
